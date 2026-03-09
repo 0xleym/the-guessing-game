@@ -1,5 +1,7 @@
 'use client';
 
+import { useState } from 'react';
+import Image from 'next/image';
 import { motion } from 'framer-motion';
 import { Product } from '@/types';
 
@@ -14,6 +16,9 @@ interface ProductCardProps {
 }
 
 export function ProductCard({ product }: ProductCardProps) {
+  const [imgError, setImgError] = useState(false);
+  const [imgLoading, setImgLoading] = useState(true);
+
   return (
     <motion.div
       initial={{ opacity: 0, y: 20 }}
@@ -22,18 +27,39 @@ export function ProductCard({ product }: ProductCardProps) {
       className="bg-zinc-900 rounded-2xl border border-zinc-800 overflow-hidden max-w-md mx-auto w-full"
     >
       {/* Product Image */}
-      <div className="relative aspect-square bg-white flex items-center justify-center p-8">
-        <div className="w-full h-full flex items-center justify-center text-zinc-400">
-          {/* Placeholder since we don't have real images yet */}
-          <div className="text-center">
-            <div className="text-6xl mb-4">🛍️</div>
-            <p className="text-sm text-zinc-500">Product Image</p>
+      <div className="relative aspect-square bg-white flex items-center justify-center">
+        {imgError ? (
+          <div className="w-full h-full flex items-center justify-center text-zinc-400">
+            <div className="text-center">
+              <div className="text-6xl mb-4">🛍️</div>
+              <p className="text-sm text-zinc-500">Product Image</p>
+            </div>
           </div>
-        </div>
+        ) : (
+          <>
+            {imgLoading && (
+              <div className="absolute inset-0 flex items-center justify-center bg-white z-10">
+                <div className="w-8 h-8 border-2 border-zinc-300 border-t-orange-500 rounded-full animate-spin" />
+              </div>
+            )}
+            <Image
+              src={product.imageUrl}
+              alt={product.name}
+              fill
+              className="object-contain p-4"
+              sizes="(max-width: 448px) 100vw, 448px"
+              onLoad={() => setImgLoading(false)}
+              onError={() => {
+                setImgError(true);
+                setImgLoading(false);
+              }}
+            />
+          </>
+        )}
 
         {/* Difficulty Badge */}
         <span
-          className={`absolute top-3 right-3 px-3 py-1 rounded-full text-xs font-semibold border ${difficultyColors[product.difficulty]}`}
+          className={`absolute top-3 right-3 px-3 py-1 rounded-full text-xs font-semibold border z-20 ${difficultyColors[product.difficulty]}`}
         >
           {product.difficulty}
         </span>
