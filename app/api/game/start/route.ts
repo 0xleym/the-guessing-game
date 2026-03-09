@@ -9,7 +9,7 @@ export async function POST(req: NextRequest) {
     const rounds: GameMode = body.rounds === 10 ? 10 : 5;
 
     const products = selectProducts(rounds);
-    const session = createSession(products, rounds);
+    const session = await createSession(products, rounds);
     const firstProduct = session.products[0];
 
     return NextResponse.json({

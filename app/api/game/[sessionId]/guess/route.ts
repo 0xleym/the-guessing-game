@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { getSession } from '@/lib/sessions';
+import { getSession, updateSession } from '@/lib/sessions';
 import { calculateScore } from '@/lib/scoring';
 import { RoundResult } from '@/types';
 
@@ -9,7 +9,7 @@ export async function POST(
 ) {
   try {
     const { sessionId } = await params;
-    const session = getSession(sessionId);
+    const session = await getSession(sessionId);
 
     if (!session) {
       return NextResponse.json({ error: 'Session not found or expired' }, { status: 404 });
@@ -54,6 +54,8 @@ export async function POST(
     if (isLastRound) {
       session.completed = true;
     }
+
+    await updateSession(session);
 
     const nextProduct = isLastRound ? null : session.products[session.currentRound];
 

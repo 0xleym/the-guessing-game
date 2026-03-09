@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { getSession } from '@/lib/sessions';
+import { getSession, updateSession } from '@/lib/sessions';
 import { calculateRange } from '@/lib/scoring';
 
 export async function POST(
@@ -8,7 +8,7 @@ export async function POST(
 ) {
   try {
     const { sessionId } = await params;
-    const session = getSession(sessionId);
+    const session = await getSession(sessionId);
 
     if (!session) {
       return NextResponse.json({ error: 'Session not found or expired' }, { status: 404 });
@@ -31,6 +31,8 @@ export async function POST(
 
     session.lifelinesUsed[type] = true;
     session.lifelinesUsedThisRound.push(type);
+
+    await updateSession(session);
 
     const currentProduct = session.products[session.currentRound];
 

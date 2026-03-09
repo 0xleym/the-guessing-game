@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { getSession } from '@/lib/sessions';
+import { getSession, updateSession } from '@/lib/sessions';
 import { addEntry } from '@/lib/leaderboard';
 import { getCountryFromIP } from '@/lib/geolocation';
 import { GameMode } from '@/types';
@@ -18,7 +18,7 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: 'Player name is required' }, { status: 400 });
     }
 
-    const session = getSession(sessionId);
+    const session = await getSession(sessionId);
     if (!session) {
       return NextResponse.json({ error: 'Session not found or expired' }, { status: 404 });
     }
@@ -37,7 +37,7 @@ export async function POST(req: NextRequest) {
       || '127.0.0.1';
     const { countryCode, countryName } = await getCountryFromIP(ip);
 
-    const entry = addEntry(
+    const entry = await addEntry(
       trimmedName,
       session.totalScore,
       session.totalRounds,
@@ -47,6 +47,7 @@ export async function POST(req: NextRequest) {
     );
 
     session.submitted = true;
+    await updateSession(session);
 
     return NextResponse.json({ entry });
   } catch {
