@@ -1,0 +1,452 @@
+[
+  {
+    "id": "p001",
+    "name": "boAt Rockerz 450 Bluetooth Headphones",
+    "category": "Electronics",
+    "subcategory": "Headphones",
+    "priceInr": 1299,
+    "imageUrl": "/products/boat-rockerz-450.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p002",
+    "name": "Prestige Popular Aluminium Pressure Cooker 5L",
+    "category": "Kitchen",
+    "subcategory": "Pressure Cookers",
+    "priceInr": 1099,
+    "imageUrl": "/products/prestige-cooker-5l.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p003",
+    "name": "Cello Pens Pack of 20 Blue Ballpoint",
+    "category": "Stationery",
+    "subcategory": "Pens",
+    "priceInr": 80,
+    "imageUrl": "/products/cello-pens-20.jpg",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p004",
+    "name": "Samsung Galaxy M14 5G (6GB, 128GB)",
+    "category": "Electronics",
+    "subcategory": "Smartphones",
+    "priceInr": 12490,
+    "imageUrl": "/products/samsung-m14.jpg",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p005",
+    "name": "Nivea Men Dark Spot Reduction Face Wash 100ml",
+    "category": "Beauty",
+    "subcategory": "Face Wash",
+    "priceInr": 199,
+    "imageUrl": "/products/nivea-men-facewash.jpg",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p006",
+    "name": "Havells Instanio 3L Instant Water Heater",
+    "category": "Home Appliances",
+    "subcategory": "Water Heaters",
+    "priceInr": 3299,
+    "imageUrl": "/products/havells-water-heater.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p007",
+    "name": "Classmate Long Notebook Pack of 6 (240 Pages)",
+    "category": "Stationery",
+    "subcategory": "Notebooks",
+    "priceInr": 270,
+    "imageUrl": "/products/classmate-notebooks.jpg",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p008",
+    "name": "Nike Revolution 6 Running Shoes Men",
+    "category": "Fashion",
+    "subcategory": "Sports Shoes",
+    "priceInr": 3695,
+    "imageUrl": "/products/nike-revolution-6.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p009",
+    "name": "Pigeon Stovekraft Favourite 3 Burner Gas Stove",
+    "category": "Kitchen",
+    "subcategory": "Gas Stoves",
+    "priceInr": 2499,
+    "imageUrl": "/products/pigeon-gas-stove.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p010",
+    "name": "Logitech MK270r Wireless Keyboard & Mouse Combo",
+    "category": "Electronics",
+    "subcategory": "Computer Accessories",
+    "priceInr": 1595,
+    "imageUrl": "/products/logitech-mk270r.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p011",
+    "name": "Colgate MaxFresh Toothpaste 300g",
+    "category": "Personal Care",
+    "subcategory": "Toothpaste",
+    "priceInr": 178,
+    "imageUrl": "/products/colgate-maxfresh.jpg",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p012",
+    "name": "OnePlus Nord Buds 2r True Wireless Earbuds",
+    "category": "Electronics",
+    "subcategory": "Earbuds",
+    "priceInr": 2299,
+    "imageUrl": "/products/oneplus-nord-buds.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p013",
+    "name": "Bajaj Majesty RX11 Oil Filled Room Heater",
+    "category": "Home Appliances",
+    "subcategory": "Room Heaters",
+    "priceInr": 7999,
+    "imageUrl": "/products/bajaj-room-heater.jpg",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p014",
+    "name": "Britannia Good Day Cashew Cookies 600g",
+    "category": "Grocery",
+    "subcategory": "Biscuits",
+    "priceInr": 120,
+    "imageUrl": "/products/britannia-goodday.jpg",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p015",
+    "name": "HP 15s Ryzen 3 Laptop (8GB, 512GB SSD)",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "priceInr": 33990,
+    "imageUrl": "/products/hp-15s-ryzen3.jpg",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p016",
+    "name": "Wildcraft 44L Trekking Backpack",
+    "category": "Bags",
+    "subcategory": "Trekking Bags",
+    "priceInr": 1899,
+    "imageUrl": "/products/wildcraft-backpack.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p017",
+    "name": "Titan Karishma Analog Watch for Men",
+    "category": "Fashion",
+    "subcategory": "Watches",
+    "priceInr": 1295,
+    "imageUrl": "/products/titan-karishma.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p018",
+    "name": "Surf Excel Matic Liquid Detergent 2L",
+    "category": "Home Care",
+    "subcategory": "Detergents",
+    "priceInr": 399,
+    "imageUrl": "/products/surf-excel-2l.jpg",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p019",
+    "name": "Milton Thermosteel Flask 1000ml",
+    "category": "Kitchen",
+    "subcategory": "Bottles & Flasks",
+    "priceInr": 799,
+    "imageUrl": "/products/milton-flask.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p020",
+    "name": "JBL Flip 5 Portable Bluetooth Speaker",
+    "category": "Electronics",
+    "subcategory": "Speakers",
+    "priceInr": 8999,
+    "imageUrl": "/products/jbl-flip5.jpg",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p021",
+    "name": "Himalaya Purifying Neem Face Wash 200ml",
+    "category": "Beauty",
+    "subcategory": "Face Wash",
+    "priceInr": 185,
+    "imageUrl": "/products/himalaya-neem.jpg",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p022",
+    "name": "Crompton Energion HS 1200mm Ceiling Fan",
+    "category": "Home Appliances",
+    "subcategory": "Ceiling Fans",
+    "priceInr": 2999,
+    "imageUrl": "/products/crompton-fan.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p023",
+    "name": "Fastrack Reflex 3.0 Unisex Smart Band",
+    "category": "Electronics",
+    "subcategory": "Smart Bands",
+    "priceInr": 2495,
+    "imageUrl": "/products/fastrack-reflex.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p024",
+    "name": "Tata Sampann Unpolished Toor Dal 1kg",
+    "category": "Grocery",
+    "subcategory": "Pulses",
+    "priceInr": 159,
+    "imageUrl": "/products/tata-toor-dal.jpg",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p025",
+    "name": "Philips BT1233 Beard Trimmer",
+    "category": "Personal Care",
+    "subcategory": "Trimmers",
+    "priceInr": 1150,
+    "imageUrl": "/products/philips-trimmer.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p026",
+    "name": "Sony WH-1000XM4 Noise Cancelling Headphones",
+    "category": "Electronics",
+    "subcategory": "Headphones",
+    "priceInr": 19990,
+    "imageUrl": "/products/sony-xm4.jpg",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p027",
+    "name": "Cello Opalware Dazzle Dinner Set 35 Pieces",
+    "category": "Kitchen",
+    "subcategory": "Dinner Sets",
+    "priceInr": 1799,
+    "imageUrl": "/products/cello-dinner-set.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p028",
+    "name": "Parle-G Gold Biscuits 1kg",
+    "category": "Grocery",
+    "subcategory": "Biscuits",
+    "priceInr": 95,
+    "imageUrl": "/products/parle-g-gold.jpg",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p029",
+    "name": "Campus Oxyfit Men's Running Shoes",
+    "category": "Fashion",
+    "subcategory": "Sports Shoes",
+    "priceInr": 899,
+    "imageUrl": "/products/campus-oxyfit.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p030",
+    "name": "Wipro Garnet 9W LED Bulb Pack of 4",
+    "category": "Home Appliances",
+    "subcategory": "LED Bulbs",
+    "priceInr": 299,
+    "imageUrl": "/products/wipro-led-4pack.jpg",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p031",
+    "name": "Apple AirPods Pro (2nd Gen) with USB-C",
+    "category": "Electronics",
+    "subcategory": "Earbuds",
+    "priceInr": 24900,
+    "imageUrl": "/products/airpods-pro2.jpg",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p032",
+    "name": "Godrej aer Twist Car Air Freshener Cool Surf Blue",
+    "category": "Automotive",
+    "subcategory": "Car Accessories",
+    "priceInr": 249,
+    "imageUrl": "/products/godrej-aer-car.jpg",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p033",
+    "name": "Noise ColorFit Pro 4 Smartwatch",
+    "category": "Electronics",
+    "subcategory": "Smartwatches",
+    "priceInr": 3499,
+    "imageUrl": "/products/noise-colorfit-pro4.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p034",
+    "name": "Bajaj ATX 4 750W Pop Up Toaster",
+    "category": "Kitchen",
+    "subcategory": "Toasters",
+    "priceInr": 1150,
+    "imageUrl": "/products/bajaj-toaster.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p035",
+    "name": "Levi's Men Slim Fit Jeans 511 Blue",
+    "category": "Fashion",
+    "subcategory": "Jeans",
+    "priceInr": 2499,
+    "imageUrl": "/products/levis-511.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p036",
+    "name": "Dabur Chyawanprash 1kg",
+    "category": "Health",
+    "subcategory": "Ayurvedic",
+    "priceInr": 350,
+    "imageUrl": "/products/dabur-chyawanprash.jpg",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p037",
+    "name": "Canon EOS 1500D DSLR Camera with 18-55mm Lens",
+    "category": "Electronics",
+    "subcategory": "Cameras",
+    "priceInr": 35990,
+    "imageUrl": "/products/canon-1500d.jpg",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p038",
+    "name": "Skybags Brat Daypack 46cm Casual Backpack",
+    "category": "Bags",
+    "subcategory": "Backpacks",
+    "priceInr": 649,
+    "imageUrl": "/products/skybags-brat.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p039",
+    "name": "Dettol Liquid Handwash Refill 1500ml",
+    "category": "Personal Care",
+    "subcategory": "Handwash",
+    "priceInr": 199,
+    "imageUrl": "/products/dettol-handwash.jpg",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p040",
+    "name": "LG 260L Frost Free Double Door Refrigerator",
+    "category": "Home Appliances",
+    "subcategory": "Refrigerators",
+    "priceInr": 26990,
+    "imageUrl": "/products/lg-fridge-260l.jpg",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p041",
+    "name": "Puma Men's Graphic Cotton T-Shirt",
+    "category": "Fashion",
+    "subcategory": "T-Shirts",
+    "priceInr": 599,
+    "imageUrl": "/products/puma-tshirt.jpg",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p042",
+    "name": "Borosil Glass Lunch Box Set of 3 (400ml each)",
+    "category": "Kitchen",
+    "subcategory": "Lunch Boxes",
+    "priceInr": 999,
+    "imageUrl": "/products/borosil-lunchbox.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p043",
+    "name": "Kindle Paperwhite (16GB) 6.8 inch Display",
+    "category": "Electronics",
+    "subcategory": "E-Readers",
+    "priceInr": 14999,
+    "imageUrl": "/products/kindle-paperwhite.jpg",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p044",
+    "name": "Fortune Sunlite Refined Sunflower Oil 5L",
+    "category": "Grocery",
+    "subcategory": "Cooking Oil",
+    "priceInr": 699,
+    "imageUrl": "/products/fortune-oil-5l.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p045",
+    "name": "Syska LED 20W Slim Panel Light",
+    "category": "Home Appliances",
+    "subcategory": "Lighting",
+    "priceInr": 449,
+    "imageUrl": "/products/syska-panel-light.jpg",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p046",
+    "name": "Zebronics Zeb-Thunder Wired Headset",
+    "category": "Electronics",
+    "subcategory": "Headsets",
+    "priceInr": 349,
+    "imageUrl": "/products/zebronics-thunder.jpg",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p047",
+    "name": "Lakme Absolute Skin Dew Serum Foundation 25ml",
+    "category": "Beauty",
+    "subcategory": "Foundation",
+    "priceInr": 799,
+    "imageUrl": "/products/lakme-foundation.jpg",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p048",
+    "name": "Dyson V8 Absolute Cordless Vacuum Cleaner",
+    "category": "Home Appliances",
+    "subcategory": "Vacuum Cleaners",
+    "priceInr": 35900,
+    "imageUrl": "/products/dyson-v8.jpg",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p049",
+    "name": "Park Avenue Good Morning Deo Spray 150ml",
+    "category": "Personal Care",
+    "subcategory": "Deodorants",
+    "priceInr": 175,
+    "imageUrl": "/products/park-avenue-deo.jpg",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p050",
+    "name": "Samsung 43 inch Crystal 4K UHD Smart TV",
+    "category": "Electronics",
+    "subcategory": "Televisions",
+    "priceInr": 29990,
+    "imageUrl": "/products/samsung-43-tv.jpg",
+    "difficulty": "hard"
+  }
+]
