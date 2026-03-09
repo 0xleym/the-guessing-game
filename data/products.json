@@ -1,452 +1,3089 @@
 [
   {
-    "id": "p001",
-    "name": "boAt Rockerz 450 Bluetooth Headphones",
+    "id": "p-acer-139-cm-55-bea8",
+    "name": "Acer 139 cm (55 inches) H Series 4K Ultra HD Android Smart LED TV AR55AR2851UDPRO (Black)",
     "category": "Electronics",
-    "subcategory": "Headphones",
-    "priceInr": 1299,
-    "imageUrl": "/products/boat-rockerz-450.jpg",
-    "difficulty": "medium"
-  },
-  {
-    "id": "p002",
-    "name": "Prestige Popular Aluminium Pressure Cooker 5L",
-    "category": "Kitchen",
-    "subcategory": "Pressure Cookers",
-    "priceInr": 1099,
-    "imageUrl": "/products/prestige-cooker-5l.jpg",
-    "difficulty": "medium"
-  },
-  {
-    "id": "p003",
-    "name": "Cello Pens Pack of 20 Blue Ballpoint",
-    "category": "Stationery",
-    "subcategory": "Pens",
-    "priceInr": 80,
-    "imageUrl": "/products/cello-pens-20.jpg",
-    "difficulty": "easy"
-  },
-  {
-    "id": "p004",
-    "name": "Samsung Galaxy M14 5G (6GB, 128GB)",
-    "category": "Electronics",
-    "subcategory": "Smartphones",
-    "priceInr": 12490,
-    "imageUrl": "/products/samsung-m14.jpg",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 35999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-acer-139-cm-55-bea8.webp",
     "difficulty": "hard"
   },
   {
-    "id": "p005",
-    "name": "Nivea Men Dark Spot Reduction Face Wash 100ml",
-    "category": "Beauty",
-    "subcategory": "Face Wash",
-    "priceInr": 199,
-    "imageUrl": "/products/nivea-men-facewash.jpg",
-    "difficulty": "easy"
-  },
-  {
-    "id": "p006",
-    "name": "Havells Instanio 3L Instant Water Heater",
-    "category": "Home Appliances",
-    "subcategory": "Water Heaters",
-    "priceInr": 3299,
-    "imageUrl": "/products/havells-water-heater.jpg",
-    "difficulty": "medium"
-  },
-  {
-    "id": "p007",
-    "name": "Classmate Long Notebook Pack of 6 (240 Pages)",
-    "category": "Stationery",
-    "subcategory": "Notebooks",
-    "priceInr": 270,
-    "imageUrl": "/products/classmate-notebooks.jpg",
-    "difficulty": "easy"
-  },
-  {
-    "id": "p008",
-    "name": "Nike Revolution 6 Running Shoes Men",
-    "category": "Fashion",
-    "subcategory": "Sports Shoes",
-    "priceInr": 3695,
-    "imageUrl": "/products/nike-revolution-6.jpg",
-    "difficulty": "medium"
-  },
-  {
-    "id": "p009",
-    "name": "Pigeon Stovekraft Favourite 3 Burner Gas Stove",
-    "category": "Kitchen",
-    "subcategory": "Gas Stoves",
-    "priceInr": 2499,
-    "imageUrl": "/products/pigeon-gas-stove.jpg",
-    "difficulty": "medium"
-  },
-  {
-    "id": "p010",
-    "name": "Logitech MK270r Wireless Keyboard & Mouse Combo",
+    "id": "p-acer-80-cm-32-0b3d",
+    "name": "Acer 80 cm (32 inches) I Series HD Ready Android Smart LED TV AR32AR2841HDFL (Black)",
     "category": "Electronics",
-    "subcategory": "Computer Accessories",
-    "priceInr": 1595,
-    "imageUrl": "/products/logitech-mk270r.jpg",
-    "difficulty": "medium"
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 11499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-acer-80-cm-32-0b3d.webp",
+    "difficulty": "hard"
   },
   {
-    "id": "p011",
-    "name": "Colgate MaxFresh Toothpaste 300g",
-    "category": "Personal Care",
-    "subcategory": "Toothpaste",
-    "priceInr": 178,
-    "imageUrl": "/products/colgate-maxfresh.jpg",
-    "difficulty": "easy"
-  },
-  {
-    "id": "p012",
-    "name": "OnePlus Nord Buds 2r True Wireless Earbuds",
+    "id": "p-acer-80-cm-32-7e8f",
+    "name": "Acer 80 cm (32 inches) S Series HD Ready Android Smart LED TV AR32AR2841HDSB (Black)",
     "category": "Electronics",
-    "subcategory": "Earbuds",
-    "priceInr": 2299,
-    "imageUrl": "/products/oneplus-nord-buds.jpg",
-    "difficulty": "medium"
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 12499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-acer-80-cm-32-7e8f.webp",
+    "difficulty": "hard"
   },
   {
-    "id": "p013",
-    "name": "Bajaj Majesty RX11 Oil Filled Room Heater",
-    "category": "Home Appliances",
-    "subcategory": "Room Heaters",
+    "id": "p-acer-80-cm-32-ef8f",
+    "name": "Acer 80 cm (32 inches) N Series HD Ready TV AR32NSV53HD (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
     "priceInr": 7999,
-    "imageUrl": "/products/bajaj-room-heater.jpg",
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-acer-80-cm-32-ef8f.webp",
     "difficulty": "hard"
   },
   {
-    "id": "p014",
-    "name": "Britannia Good Day Cashew Cookies 600g",
-    "category": "Grocery",
-    "subcategory": "Biscuits",
-    "priceInr": 120,
-    "imageUrl": "/products/britannia-goodday.jpg",
-    "difficulty": "easy"
+    "id": "p-activa-1200-mm-high-966a",
+    "name": "ACTIVA 1200 MM HIGH SPEED 390 RPM BEE APPROVED 5 STAR RATED APSRA CEILING FAN BROWN 2 Years Warranty",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 1099,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-activa-1200-mm-high-966a.webp",
+    "difficulty": "medium"
   },
   {
-    "id": "p015",
-    "name": "HP 15s Ryzen 3 Laptop (8GB, 512GB SSD)",
+    "id": "p-agaro-blaze-usb-30-5ece",
+    "name": "AGARO Blaze USB 3.0 to USB Type C OTG Adapter",
     "category": "Electronics",
-    "subcategory": "Laptops",
-    "priceInr": 33990,
-    "imageUrl": "/products/hp-15s-ryzen3.jpg",
-    "difficulty": "hard"
-  },
-  {
-    "id": "p016",
-    "name": "Wildcraft 44L Trekking Backpack",
-    "category": "Bags",
-    "subcategory": "Trekking Bags",
-    "priceInr": 1899,
-    "imageUrl": "/products/wildcraft-backpack.jpg",
-    "difficulty": "medium"
-  },
-  {
-    "id": "p017",
-    "name": "Titan Karishma Analog Watch for Men",
-    "category": "Fashion",
-    "subcategory": "Watches",
-    "priceInr": 1295,
-    "imageUrl": "/products/titan-karishma.jpg",
-    "difficulty": "medium"
-  },
-  {
-    "id": "p018",
-    "name": "Surf Excel Matic Liquid Detergent 2L",
-    "category": "Home Care",
-    "subcategory": "Detergents",
-    "priceInr": 399,
-    "imageUrl": "/products/surf-excel-2l.jpg",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 139,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-agaro-blaze-usb-30-5ece.webp",
     "difficulty": "easy"
   },
   {
-    "id": "p019",
-    "name": "Milton Thermosteel Flask 1000ml",
-    "category": "Kitchen",
-    "subcategory": "Bottles & Flasks",
-    "priceInr": 799,
-    "imageUrl": "/products/milton-flask.jpg",
+    "id": "p-agaro-esteem-multi-kettle-a277",
+    "name": "AGARO Esteem Multi Kettle 1.2 Litre, 600W with 3 Heating Modes & Rapid Boil Technology",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 1260,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-agaro-esteem-multi-kettle-a277.webp",
     "difficulty": "medium"
   },
   {
-    "id": "p020",
-    "name": "JBL Flip 5 Portable Bluetooth Speaker",
+    "id": "p-agaro-royal-double-layered-3b95",
+    "name": "AGARO Royal Double Layered Kettle, 1.5 Litres, Double Layered Cool Touch , Dry Boiling Protection, Black",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 1260,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-agaro-royal-double-layered-3b95.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-aine-hdmi-male-to-d899",
+    "name": "Aine HDMI Male to VGA Female Video Converter Adapter Cable (Black)",
     "category": "Electronics",
-    "subcategory": "Speakers",
-    "priceInr": 8999,
-    "imageUrl": "/products/jbl-flip5.jpg",
-    "difficulty": "hard"
-  },
-  {
-    "id": "p021",
-    "name": "Himalaya Purifying Neem Face Wash 200ml",
-    "category": "Beauty",
-    "subcategory": "Face Wash",
-    "priceInr": 185,
-    "imageUrl": "/products/himalaya-neem.jpg",
-    "difficulty": "easy"
-  },
-  {
-    "id": "p022",
-    "name": "Crompton Energion HS 1200mm Ceiling Fan",
-    "category": "Home Appliances",
-    "subcategory": "Ceiling Fans",
-    "priceInr": 2999,
-    "imageUrl": "/products/crompton-fan.jpg",
-    "difficulty": "medium"
-  },
-  {
-    "id": "p023",
-    "name": "Fastrack Reflex 3.0 Unisex Smart Band",
-    "category": "Electronics",
-    "subcategory": "Smart Bands",
-    "priceInr": 2495,
-    "imageUrl": "/products/fastrack-reflex.jpg",
-    "difficulty": "medium"
-  },
-  {
-    "id": "p024",
-    "name": "Tata Sampann Unpolished Toor Dal 1kg",
-    "category": "Grocery",
-    "subcategory": "Pulses",
-    "priceInr": 159,
-    "imageUrl": "/products/tata-toor-dal.jpg",
-    "difficulty": "easy"
-  },
-  {
-    "id": "p025",
-    "name": "Philips BT1233 Beard Trimmer",
-    "category": "Personal Care",
-    "subcategory": "Trimmers",
-    "priceInr": 1150,
-    "imageUrl": "/products/philips-trimmer.jpg",
-    "difficulty": "medium"
-  },
-  {
-    "id": "p026",
-    "name": "Sony WH-1000XM4 Noise Cancelling Headphones",
-    "category": "Electronics",
-    "subcategory": "Headphones",
-    "priceInr": 19990,
-    "imageUrl": "/products/sony-xm4.jpg",
-    "difficulty": "hard"
-  },
-  {
-    "id": "p027",
-    "name": "Cello Opalware Dazzle Dinner Set 35 Pieces",
-    "category": "Kitchen",
-    "subcategory": "Dinner Sets",
-    "priceInr": 1799,
-    "imageUrl": "/products/cello-dinner-set.jpg",
-    "difficulty": "medium"
-  },
-  {
-    "id": "p028",
-    "name": "Parle-G Gold Biscuits 1kg",
-    "category": "Grocery",
-    "subcategory": "Biscuits",
-    "priceInr": 95,
-    "imageUrl": "/products/parle-g-gold.jpg",
-    "difficulty": "easy"
-  },
-  {
-    "id": "p029",
-    "name": "Campus Oxyfit Men's Running Shoes",
-    "category": "Fashion",
-    "subcategory": "Sports Shoes",
-    "priceInr": 899,
-    "imageUrl": "/products/campus-oxyfit.jpg",
-    "difficulty": "medium"
-  },
-  {
-    "id": "p030",
-    "name": "Wipro Garnet 9W LED Bulb Pack of 4",
-    "category": "Home Appliances",
-    "subcategory": "LED Bulbs",
+    "subcategory": "HomeTheater,TV&Video",
     "priceInr": 299,
-    "imageUrl": "/products/wipro-led-4pack.jpg",
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-aine-hdmi-male-to-d899.webp",
     "difficulty": "easy"
   },
   {
-    "id": "p031",
-    "name": "Apple AirPods Pro (2nd Gen) with USB-C",
+    "id": "p-airtel-digital-tv-hd-9814",
+    "name": "Airtel Digital TV HD Set Top Box with 1 Month Basic Pack with Recording + Free Standard Installation",
     "category": "Electronics",
-    "subcategory": "Earbuds",
-    "priceInr": 24900,
-    "imageUrl": "/products/airpods-pro2.jpg",
-    "difficulty": "hard"
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 917,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-airtel-digital-tv-hd-9814.webp",
+    "difficulty": "medium"
   },
   {
-    "id": "p032",
-    "name": "Godrej aer Twist Car Air Freshener Cool Surf Blue",
-    "category": "Automotive",
-    "subcategory": "Car Accessories",
-    "priceInr": 249,
-    "imageUrl": "/products/godrej-aer-car.jpg",
-    "difficulty": "easy"
+    "id": "p-amazon-basics-1500-w-7043",
+    "name": "Amazon Basics 1500 W Electric Kettle (Stainless Steel Body, 1.5 L)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 749,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazon-basics-1500-w-7043.webp",
+    "difficulty": "medium"
   },
   {
-    "id": "p033",
-    "name": "Noise ColorFit Pro 4 Smartwatch",
+    "id": "p-amazon-basics-2-amp-6f2e",
+    "name": "Amazon Basics 2 Amp USB Wall Charger & Micro USB Cable (White)",
     "category": "Electronics",
-    "subcategory": "Smartwatches",
-    "priceInr": 3499,
-    "imageUrl": "/products/noise-colorfit-pro4.jpg",
-    "difficulty": "medium"
-  },
-  {
-    "id": "p034",
-    "name": "Bajaj ATX 4 750W Pop Up Toaster",
-    "category": "Kitchen",
-    "subcategory": "Toasters",
-    "priceInr": 1150,
-    "imageUrl": "/products/bajaj-toaster.jpg",
-    "difficulty": "medium"
-  },
-  {
-    "id": "p035",
-    "name": "Levi's Men Slim Fit Jeans 511 Blue",
-    "category": "Fashion",
-    "subcategory": "Jeans",
-    "priceInr": 2499,
-    "imageUrl": "/products/levis-511.jpg",
-    "difficulty": "medium"
-  },
-  {
-    "id": "p036",
-    "name": "Dabur Chyawanprash 1kg",
-    "category": "Health",
-    "subcategory": "Ayurvedic",
-    "priceInr": 350,
-    "imageUrl": "/products/dabur-chyawanprash.jpg",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 219,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazon-basics-2-amp-6f2e.webp",
     "difficulty": "easy"
   },
   {
-    "id": "p037",
-    "name": "Canon EOS 1500D DSLR Camera with 18-55mm Lens",
+    "id": "p-amazon-basics-650-watt-a041",
+    "name": "Amazon Basics 650 Watt Drip Coffee Maker with Borosilicate Carafe",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 1189,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazon-basics-650-watt-a041.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-amazon-basics-high-speed-hdmi-7399",
+    "name": "Amazon Basics High-Speed HDMI Cable, 6 Feet (2-Pack),Black",
     "category": "Electronics",
-    "subcategory": "Cameras",
-    "priceInr": 35990,
-    "imageUrl": "/products/canon-1500d.jpg",
-    "difficulty": "hard"
-  },
-  {
-    "id": "p038",
-    "name": "Skybags Brat Daypack 46cm Casual Backpack",
-    "category": "Bags",
-    "subcategory": "Backpacks",
-    "priceInr": 649,
-    "imageUrl": "/products/skybags-brat.jpg",
-    "difficulty": "medium"
-  },
-  {
-    "id": "p039",
-    "name": "Dettol Liquid Handwash Refill 1500ml",
-    "category": "Personal Care",
-    "subcategory": "Handwash",
-    "priceInr": 199,
-    "imageUrl": "/products/dettol-handwash.jpg",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 309,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazon-basics-high-speed-hdmi-7399.webp",
     "difficulty": "easy"
   },
   {
-    "id": "p040",
-    "name": "LG 260L Frost Free Double Door Refrigerator",
-    "category": "Home Appliances",
-    "subcategory": "Refrigerators",
-    "priceInr": 26990,
-    "imageUrl": "/products/lg-fridge-260l.jpg",
-    "difficulty": "hard"
+    "id": "p-amazon-basics-high-speed-hdmi-d2c3",
+    "name": "Amazon Basics High-Speed HDMI Cable, 6 Feet - Supports Ethernet, 3D, 4K video,Black",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 309,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazon-basics-high-speed-hdmi-d2c3.webp",
+    "difficulty": "easy"
   },
   {
-    "id": "p041",
-    "name": "Puma Men's Graphic Cotton T-Shirt",
-    "category": "Fashion",
-    "subcategory": "T-Shirts",
+    "id": "p-amazon-basics-multipurpose-foldable-233f",
+    "name": "Amazon Basics Multipurpose Foldable Laptop Table with Cup Holder, Brown",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
     "priceInr": 599,
-    "imageUrl": "/products/puma-tshirt.jpg",
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazon-basics-multipurpose-foldable-233f.webp",
     "difficulty": "easy"
   },
   {
-    "id": "p042",
-    "name": "Borosil Glass Lunch Box Set of 3 (400ml each)",
-    "category": "Kitchen",
-    "subcategory": "Lunch Boxes",
-    "priceInr": 999,
-    "imageUrl": "/products/borosil-lunchbox.jpg",
+    "id": "p-amazon-basics-usb-30-67de",
+    "name": "Amazon Basics USB 3.0 Cable - A Male to Micro B - 6 Feet (1.8 Meters), Black",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 299,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazon-basics-usb-30-67de.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-amazon-basics-usb-a-625c",
+    "name": "Amazon Basics USB A to Lightning PVC Molded Nylon MFi Certified Charging Cable (Black, 1.2 meter)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 789,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazon-basics-usb-a-625c.webp",
     "difficulty": "medium"
   },
   {
-    "id": "p043",
-    "name": "Kindle Paperwhite (16GB) 6.8 inch Display",
-    "category": "Electronics",
-    "subcategory": "E-Readers",
-    "priceInr": 14999,
-    "imageUrl": "/products/kindle-paperwhite.jpg",
-    "difficulty": "hard"
-  },
-  {
-    "id": "p044",
-    "name": "Fortune Sunlite Refined Sunflower Oil 5L",
-    "category": "Grocery",
-    "subcategory": "Cooking Oil",
-    "priceInr": 699,
-    "imageUrl": "/products/fortune-oil-5l.jpg",
-    "difficulty": "medium"
-  },
-  {
-    "id": "p045",
-    "name": "Syska LED 20W Slim Panel Light",
-    "category": "Home Appliances",
-    "subcategory": "Lighting",
-    "priceInr": 449,
-    "imageUrl": "/products/syska-panel-light.jpg",
-    "difficulty": "easy"
-  },
-  {
-    "id": "p046",
-    "name": "Zebronics Zeb-Thunder Wired Headset",
-    "category": "Electronics",
-    "subcategory": "Headsets",
-    "priceInr": 349,
-    "imageUrl": "/products/zebronics-thunder.jpg",
-    "difficulty": "easy"
-  },
-  {
-    "id": "p047",
-    "name": "Lakme Absolute Skin Dew Serum Foundation 25ml",
-    "category": "Beauty",
-    "subcategory": "Foundation",
+    "id": "p-amazon-basics-usb-c-ccd3",
+    "name": "Amazon Basics USB C to Lightning TPE MFi Certified Charging Cable (White, 1.2 meter)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
     "priceInr": 799,
-    "imageUrl": "/products/lakme-foundation.jpg",
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazon-basics-usb-c-ccd3.webp",
     "difficulty": "medium"
   },
   {
-    "id": "p048",
-    "name": "Dyson V8 Absolute Cordless Vacuum Cleaner",
-    "category": "Home Appliances",
-    "subcategory": "Vacuum Cleaners",
-    "priceInr": 35900,
-    "imageUrl": "/products/dyson-v8.jpg",
-    "difficulty": "hard"
-  },
-  {
-    "id": "p049",
-    "name": "Park Avenue Good Morning Deo Spray 150ml",
-    "category": "Personal Care",
-    "subcategory": "Deodorants",
-    "priceInr": 175,
-    "imageUrl": "/products/park-avenue-deo.jpg",
+    "id": "p-amazon-brand---solimo-5cea",
+    "name": "Amazon Brand - Solimo 3A Fast Charging Tough Type C USB Data Cable  – 1 Meter",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 119,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazon-brand---solimo-5cea.webp",
     "difficulty": "easy"
   },
   {
-    "id": "p050",
-    "name": "Samsung 43 inch Crystal 4K UHD Smart TV",
+    "id": "p-amazonbasics---high-speed-male-c016",
+    "name": "AmazonBasics - High-Speed Male to Female HDMI Extension Cable - 6 Feet",
     "category": "Electronics",
-    "subcategory": "Televisions",
-    "priceInr": 29990,
-    "imageUrl": "/products/samsung-43-tv.jpg",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 299,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazonbasics---high-speed-male-c016.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-amazonbasics-3-feet-high-1081",
+    "name": "AmazonBasics 3 Feet High Speed HDMI Male to Female 2.0 Extension Cable",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 229,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazonbasics-3-feet-high-1081.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-amazonbasics-35mm-to-2-male-90d1",
+    "name": "AmazonBasics 3.5mm to 2-Male RCA Adapter Cable For Tablet, Smartphone (Black, 15 feet)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 489,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazonbasics-35mm-to-2-male-90d1.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-amazonbasics-6-feet-displayport-not-4b48",
+    "name": "AmazonBasics 6-Feet DisplayPort (not USB port) to HDMI Cable Black",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 799,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazonbasics-6-feet-displayport-not-4b48.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-amazonbasics-double-braided-nylon-3f59",
+    "name": "AmazonBasics Double Braided Nylon USB Type-C to Type-C 2.0 Cable Smartphone (Dark Grey, 3 feet)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazonbasics-double-braided-nylon-3f59.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-amazonbasics-flexible-premium-hdmi-a00a",
+    "name": "AmazonBasics Flexible Premium HDMI Cable (Black, 4K@60Hz, 18Gbps), 3-Foot",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 219,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazonbasics-flexible-premium-hdmi-a00a.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-amazonbasics-high-speed-55-549d",
+    "name": "AmazonBasics High Speed 55 Watt Oscillating Pedestal Fan, 400mm Sweep Length, White (Without Remote)",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 1983,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazonbasics-high-speed-55-549d.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-amazonbasics-high-speed-braided-hdmi-ef09",
+    "name": "AmazonBasics High-Speed Braided HDMI Cable - 3 Feet - Supports Ethernet, 3D, 4K and Audio Return (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 269,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazonbasics-high-speed-braided-hdmi-ef09.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-amazonbasics-induction-cooktop-1600-99f5",
+    "name": "AmazonBasics Induction Cooktop 1600 Watt (Black)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 1999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazonbasics-induction-cooktop-1600-99f5.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-amazonbasics-usb-20-cable-20ea",
+    "name": "AmazonBasics USB 2.0 Cable - A-Male to B-Male - for Personal Computer, Printer- 6 Feet (1.8 Meters), Black",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 209,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazonbasics-usb-20-cable-20ea.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-amazonbasics-usb-c-to-9706",
+    "name": "AmazonBasics USB C to Lightning Aluminum with Nylon Braided MFi Certified Charging Cable (Grey, 1.2 meter)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 949,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amazonbasics-usb-c-to-9706.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-amozo-ultra-hybrid-camera-1498",
+    "name": "Amozo Ultra Hybrid Camera and Drop Protection Back Cover Case for iPhone 13 (TPU + Polycarbonate | Crystal Transparent)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 279,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-amozo-ultra-hybrid-camera-1498.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-ao-smith-hse-vas-x-015-storage-23ae",
+    "name": "AO Smith HSE-VAS-X-015 Storage 15 Litre Vertical Water Heater (Geyser) White 4 Star",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 7349,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-ao-smith-hse-vas-x-015-storage-23ae.webp",
     "difficulty": "hard"
+  },
+  {
+    "id": "p-apsara-platinum-pencils-value-5357",
+    "name": "Apsara Platinum Pencils Value Pack - Pack of 20",
+    "category": "Home&Kitchen",
+    "subcategory": "CraftMaterials",
+    "priceInr": 99,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-apsara-platinum-pencils-value-5357.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-astigo-compatible-remote-for-185a",
+    "name": "Astigo Compatible Remote for Airtel Digital Set Top Box (Pairing Required with TV Remote)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 299,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-astigo-compatible-remote-for-185a.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-bajaj-dx-2-600w-dry-d7a8",
+    "name": "Bajaj DX-2 600W Dry Iron with Advance Soleplate and Anti-bacterial German Coating Technology, Black",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-bajaj-dx-2-600w-dry-d7a8.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-bajaj-dx-7-1000w-dry-9167",
+    "name": "Bajaj DX-7 1000W Dry Iron with Advance Soleplate and Anti-bacterial German Coating Technology, White",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 775,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-bajaj-dx-7-1000w-dry-9167.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-bajaj-frore-1200-mm-4890",
+    "name": "Bajaj Frore 1200 mm Ceiling Fan (Brown)",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 1399,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-bajaj-frore-1200-mm-4890.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-bajaj-majesty-duetto-gas-752a",
+    "name": "Bajaj Majesty Duetto Gas 6 Ltr Vertical Water Heater ( LPG), White",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 5365,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-bajaj-majesty-duetto-gas-752a.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-bajaj-pygmy-mini-110-1018",
+    "name": "BAJAJ PYGMY MINI 110 MM 10 W HIGH SPEED OPERATION, USB CHARGING, MULTI-CLIP FUNCTION PERSONAL FAN",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 948,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-bajaj-pygmy-mini-110-1018.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-bajaj-rhx-2-800-watt-room-301c",
+    "name": "Bajaj RHX-2 800-Watt Room Heater (White)",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 1399,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-bajaj-rhx-2-800-watt-room-301c.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-bajaj-waterproof-1500-watts-d902",
+    "name": "Bajaj Waterproof 1500 Watts Immersion Rod Heater",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 653,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-bajaj-waterproof-1500-watts-d902.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-belkin-apple-certified-lightning-083f",
+    "name": "Belkin Apple Certified Lightning to USB Charge and Sync Cable for iPhone, iPad, Air Pods, 39.6 inch (100cm) – Black",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-belkin-apple-certified-lightning-083f.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-black-decker-bd-bxir2201in-0ba7",
+    "name": "Black + Decker BD BXIR2201IN 2200-Watt Cord & Cordless Steam Iron (Green)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 3199,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-black-decker-bd-bxir2201in-0ba7.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-blackdecker-handheld-portable-garment-d2bf",
+    "name": "Black+Decker Handheld Portable Garment Steamer 1500 Watts with Anti Calc (Violet)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 3299,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-blackdecker-handheld-portable-garment-d2bf.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-boat-a-350-type-26f6",
+    "name": "boAt A 350 Type C Cable for Smartphone, Charging Adapter (1.5m, Carbon Black)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 299,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-boat-a-350-type-26f6.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-boat-a-350-type-a792",
+    "name": "Boat A 350 Type C Cable 1.5m(Jet Black)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 299,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-boat-a-350-type-a792.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-boat-a400-usb-type-c-df70",
+    "name": "boAt A400 USB Type-C to USB-A 2.0 Male Data Cable, 2 Meter (Black)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 299,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-boat-a400-usb-type-c-df70.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-boat-bassheads-100-in-91d3",
+    "name": "boAt Bassheads 100 in Ear Wired Earphones with Mic(Taffy Pink)",
+    "category": "Electronics",
+    "subcategory": "Headphones,Earbuds&Accessories",
+    "priceInr": 349,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-boat-bassheads-100-in-91d3.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-boat-bassheads-100-in-aa5b",
+    "name": "boAt Bassheads 100 in Ear Wired Earphones with Mic(Furious Red)",
+    "category": "Electronics",
+    "subcategory": "Headphones,Earbuds&Accessories",
+    "priceInr": 379,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-boat-bassheads-100-in-aa5b.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-boat-bassheads-100-in-ear-2c60",
+    "name": "boAt BassHeads 100 in-Ear Wired Headphones with Mic (Black)",
+    "category": "Electronics",
+    "subcategory": "Headphones,Earbuds&Accessories",
+    "priceInr": 365,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-boat-bassheads-100-in-ear-2c60.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-boat-bassheads-122-wired-e07c",
+    "name": "boAt BassHeads 122 Wired Earphones with Heavy Bass, Integrated Controls and Mic (Gun Metal)",
+    "category": "Electronics",
+    "subcategory": "Headphones,Earbuds&Accessories",
+    "priceInr": 399,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-boat-bassheads-122-wired-e07c.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-boat-bassheads-152-in-5c28",
+    "name": "boAt Bassheads 152 in Ear Wired Earphones with Mic(Active Black)",
+    "category": "Electronics",
+    "subcategory": "Headphones,Earbuds&Accessories",
+    "priceInr": 449,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-boat-bassheads-152-in-5c28.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-boat-bassheads-225-in-a3a2",
+    "name": "boAt Bassheads 225 in Ear Wired Earphones with Mic(Blue)",
+    "category": "Electronics",
+    "subcategory": "Headphones,Earbuds&Accessories",
+    "priceInr": 699,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-boat-bassheads-225-in-a3a2.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-boat-bassheads-242-in-ffcb",
+    "name": "boAt Bassheads 242 in Ear Wired Earphones with Mic(Active Black)",
+    "category": "Electronics",
+    "subcategory": "Headphones,Earbuds&Accessories",
+    "priceInr": 599,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-boat-bassheads-242-in-ffcb.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-boat-dual-port-rapid-4137",
+    "name": "boAt Dual Port Rapid Car Charger (Qualcomm Certified) with Quick Charge 3.0 + Free Micro USB Cable - (Black)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 571,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-boat-dual-port-rapid-4137.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-boat-ltg-500-apple-a849",
+    "name": "boAt LTG 500 Apple MFI Certified for iPhone, iPad and iPod 2Mtr Data Cable(Space Grey)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 849,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-boat-ltg-500-apple-a849.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-boat-ltg-500-apple-ff23",
+    "name": "boAt LTG 500 Apple MFI Certified for iPhone, iPad and iPod 2Mtr Data Cable(Metallic Silver)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 799,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-boat-ltg-500-apple-ff23.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-boat-rockerz-400-bluetooth-a533",
+    "name": "boAt Rockerz 400 Bluetooth On Ear Headphones With Mic With Upto 8 Hours Playback & Soft Padded Ear Cushions(Grey/Green)",
+    "category": "Electronics",
+    "subcategory": "Headphones,Earbuds&Accessories",
+    "priceInr": 1399,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-boat-rockerz-400-bluetooth-a533.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-boat-rugged-v3-extra-9937",
+    "name": "boAt Rugged v3 Extra Tough Unbreakable Braided Micro USB Cable 1.5 Meter (Black)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 299,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-boat-rugged-v3-extra-9937.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-boat-stone-650-10w-d5b6",
+    "name": "boAt Stone 650 10W Bluetooth Speaker with Upto 7 Hours Playback, IPX5 and Integrated Controls (Blue)",
+    "category": "Electronics",
+    "subcategory": "HomeAudio",
+    "priceInr": 1799,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-boat-stone-650-10w-d5b6.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-boat-type-c-a400-type-c-a415",
+    "name": "boAt Type-c A400 Type-c to USB A Cable for All Type C Phones (Lg nexus 5x), 1Mtr(Black)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 349,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-boat-type-c-a400-type-c-a415.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-borosil-volcano-13-fin-85b6",
+    "name": "Borosil Volcano 13 Fin Oil Filled Radiator Room Heater, 2900 W, Black",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 9495,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-borosil-volcano-13-fin-85b6.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-boult-audio-bassbuds-x1-66d3",
+    "name": "Boult Audio BassBuds X1 in-Ear Wired Earphones with 10mm Extra Bass Driver and HD Sound with mic(Black)",
+    "category": "Electronics",
+    "subcategory": "Headphones,Earbuds&Accessories",
+    "priceInr": 329,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-boult-audio-bassbuds-x1-66d3.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-boya-bym1-auxiliary-omnidirectional-ad30",
+    "name": "Boya ByM1 Auxiliary Omnidirectional Lavalier Condenser Microphone with 20ft Audio Cable (Black)",
+    "category": "MusicalInstruments",
+    "subcategory": "Microphones",
+    "priceInr": 798,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-boya-bym1-auxiliary-omnidirectional-ad30.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-butterfly-ekn-15-litre-electric-e2ff",
+    "name": "Butterfly EKN 1.5-Litre Electric Kettle (Silver with Black)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 749,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-butterfly-ekn-15-litre-electric-e2ff.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-butterfly-jet-elite-mixer-ebbb",
+    "name": "Butterfly Jet Elite Mixer Grinder, 750W, 4 Jars (Grey)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 3499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-butterfly-jet-elite-mixer-ebbb.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-butterfly-smart-wet-grinder-9d7d",
+    "name": "Butterfly Smart Wet Grinder, 2L (White) with Coconut Scrapper Attachment, Output - 150 W, Input 260 W",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 3658,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-butterfly-smart-wet-grinder-9d7d.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-caldipree-silicone-case-cover-3a8d",
+    "name": "Caldipree Silicone Case Cover Compatible for 2022 Samsung Smart TV Remote QLED TV BN68-13897A TM2280E (2022-BLACK)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 547,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-caldipree-silicone-case-cover-3a8d.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-camel-artist-acrylic-color-6f12",
+    "name": "Camel Artist Acrylic Color Box - 9ml Tubes, 12 Shades",
+    "category": "Home&Kitchen",
+    "subcategory": "CraftMaterials",
+    "priceInr": 310,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-camel-artist-acrylic-color-6f12.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-camel-fabrica-acrylic-ultra-fbda",
+    "name": "Camel Fabrica Acrylic Ultra Color - 15ml each, 10 Shades",
+    "category": "Home&Kitchen",
+    "subcategory": "CraftMaterials",
+    "priceInr": 200,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-camel-fabrica-acrylic-ultra-fbda.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-candes-gloster-all-in-e077",
+    "name": "Candes Gloster All in One Silent Blower Fan Room Heater Ideal for Small and Medium Area, 2000 Watts (White)",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 1069,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-candes-gloster-all-in-e077.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-canon-pixma-e477-all-in-one-b204",
+    "name": "Canon PIXMA E477 All-in-One Wireless Ink Efficient Colour Printer (White/Blue)",
+    "category": "Computers&Accessories",
+    "subcategory": "Printers,Inks&Accessories",
+    "priceInr": 5299,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-canon-pixma-e477-all-in-one-b204.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-caprigo-heavy-duty-tv-6758",
+    "name": "Caprigo Heavy Duty TV Wall Mount Bracket for 14 to 32 Inch LED/HD/Smart TV’s, Universal Fixed TV Wall Mount Stand (M452)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 399,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-caprigo-heavy-duty-tv-6758.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-casio-fx-82ms-2nd-gen-64b4",
+    "name": "Casio FX-82MS 2nd Gen Non-Programmable Scientific Calculator, 240 Functions and 2-line Display, Black",
+    "category": "OfficeProducts",
+    "subcategory": "OfficeElectronics",
+    "priceInr": 522,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-casio-fx-82ms-2nd-gen-64b4.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-casio-mj-120d-150-steps-c904",
+    "name": "Casio MJ-120D 150 Steps Check and Correct Desktop Calculator with Tax Keys, Black",
+    "category": "OfficeProducts",
+    "subcategory": "OfficeElectronics",
+    "priceInr": 535,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-casio-mj-120d-150-steps-c904.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-casio-mj-12d-150-steps-a347",
+    "name": "Casio MJ-12D 150 Steps Check and Correct Desktop Calculator",
+    "category": "OfficeProducts",
+    "subcategory": "OfficeElectronics",
+    "priceInr": 440,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-casio-mj-12d-150-steps-a347.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-cello-eliza-plastic-laundry-f524",
+    "name": "Cello Eliza Plastic Laundry Bag/Basket, 50 litres, Light Grey",
+    "category": "Home&Kitchen",
+    "subcategory": "HomeStorage&Organization",
+    "priceInr": 998,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-cello-eliza-plastic-laundry-f524.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-cello-quick-boil-popular-356f",
+    "name": "Cello Quick Boil Popular Electric Kettle 1 Litre 1200 Watts | Stainless Steel body | Boiler for Water, Silver",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 1199,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-cello-quick-boil-popular-356f.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-classmate-long-notebook---e949",
+    "name": "Classmate Long Notebook - 140 Pages, Single Line, 297mm x 210mm (Pack of 12)",
+    "category": "OfficeProducts",
+    "subcategory": "OfficePaperProducts",
+    "priceInr": 561,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-classmate-long-notebook---e949.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-classmate-pulse-1-subject-6c38",
+    "name": "Classmate Pulse 1 Subject Notebook - 240mm x 180mm , Soft Cover, 180 Pages, Single Line, Pack of 4",
+    "category": "OfficeProducts",
+    "subcategory": "OfficePaperProducts",
+    "priceInr": 300,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-classmate-pulse-1-subject-6c38.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-classmate-pulse-6-subject-3ae3",
+    "name": "Classmate Pulse 6 Subject Notebook - Unruled, 300 Pages, Spiral Binding, 240mm*180mm",
+    "category": "OfficeProducts",
+    "subcategory": "OfficePaperProducts",
+    "priceInr": 114,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-classmate-pulse-6-subject-3ae3.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-classmate-soft-cover-6-fe4a",
+    "name": "Classmate Soft Cover 6 Subject Spiral Binding Notebook, Single Line, 300 Pages",
+    "category": "OfficeProducts",
+    "subcategory": "OfficePaperProducts",
+    "priceInr": 157,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-classmate-soft-cover-6-fe4a.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-cookwell-bullet-mixer-grinder-12ec",
+    "name": "Cookwell Bullet Mixer Grinder (5 Jars, 3 Blades, Silver)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 2464,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-cookwell-bullet-mixer-grinder-12ec.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-croma-1100-w-dry-5edf",
+    "name": "Croma 1100 W Dry Iron with Weilburger Dual Soleplate Coating (CRSHAH702SIR11, White)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 479,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-croma-1100-w-dry-5edf.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-croma-80-cm-32-9be0",
+    "name": "Croma 80 cm (32 Inches) HD Ready LED TV (CREL7369, Black) (2021 Model)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 7390,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-croma-80-cm-32-9be0.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-crompton-brio-1000-watts-dry-74ba",
+    "name": "Crompton Brio 1000-Watts Dry Iron with Weilburger Coating (Sky Blue and White)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 645,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-crompton-brio-1000-watts-dry-74ba.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-crompton-highspeed-markle-prime-c2b5",
+    "name": "Crompton Highspeed Markle Prime 1200 mm (48 inch) Anti-Dust Ceiling Fan with Energy Efficient 55W Motor (Burgundy)",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 2599,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-crompton-highspeed-markle-prime-c2b5.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-crompton-insta-comfy-800-4e84",
+    "name": "Crompton Insta Comfy 800 Watt Room Heater with 2 Heat Settings(Grey Blue)",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 1498,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-crompton-insta-comfy-800-4e84.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-crompton-insta-delight-fan-ee27",
+    "name": "Crompton Insta Delight Fan Circulator Room Heater with 3 Heat Settings (Slate Grey & Black, 2000 Watt)",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 2590,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-crompton-insta-delight-fan-ee27.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-crompton-instabliss-3-l-instant-894d",
+    "name": "Crompton InstaBliss 3-L Instant Water Heater (Geyser) with Advanced 4 Level Safety",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 2599,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-crompton-instabliss-3-l-instant-894d.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-crompton-instaglide-1000-watts-dry-b099",
+    "name": "Crompton InstaGlide 1000-Watts Dry Iron with American Heritage Coating, Pack of 1 Iron",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 850,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-crompton-instaglide-1000-watts-dry-b099.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-crucial-bx500-240gb-3d-db77",
+    "name": "Crucial BX500 240GB 3D NAND SATA 6.35 cm (2.5-inch) SSD (CT240BX500SSD1)",
+    "category": "Computers&Accessories",
+    "subcategory": "Components",
+    "priceInr": 1815,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-crucial-bx500-240gb-3d-db77.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-crypo-universal-remote-compatible-16c2",
+    "name": "Crypo™ Universal Remote Compatible with Tata Sky Universal HD & SD Set top Box (Also Works with All TV)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 299,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-crypo-universal-remote-compatible-16c2.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-d-link-dwa-131-300-mbps-7819",
+    "name": "D-Link DWA-131 300 Mbps Wireless Nano USB Adapter (Black)",
+    "category": "Computers&Accessories",
+    "subcategory": "NetworkingDevices",
+    "priceInr": 507,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-d-link-dwa-131-300-mbps-7819.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-dealfreez-case-compatible-with-8703",
+    "name": "Dealfreez Case Compatible with Fire TV Stick 3rd Gen 2021 Full Wrap Silicone Remote Cover Anti-Lost with Loop (D-Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 349,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-dealfreez-case-compatible-with-8703.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-dell-ms116-1000dpi-usb-8a45",
+    "name": "Dell MS116 1000Dpi USB Wired Optical Mouse, Led Tracking, Scrolling Wheel, Plug and Play.",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 299,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-dell-ms116-1000dpi-usb-8a45.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-dr-trust-electronic-kitchen-2759",
+    "name": "Dr Trust Electronic Kitchen Digital Scale Weighing Machine (Blue)",
+    "category": "Health&PersonalCare",
+    "subcategory": "HomeMedicalSupplies&Equipment",
+    "priceInr": 899,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-dr-trust-electronic-kitchen-2759.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-duracell-cr2025-3v-lithium-3452",
+    "name": "Duracell CR2025 3V Lithium Coin Battery, 5 pcs, 2025 Coin Button Cell Battery, DL2025",
+    "category": "Electronics",
+    "subcategory": "GeneralPurposeBatteries&BatteryChargers",
+    "priceInr": 116,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-duracell-cr2025-3v-lithium-3452.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-duracell-plus-aaa-rechargeable-b3ec",
+    "name": "Duracell Plus AAA Rechargeable Batteries (750 mAh) Pack of 4",
+    "category": "Electronics",
+    "subcategory": "GeneralPurposeBatteries&BatteryChargers",
+    "priceInr": 399,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-duracell-plus-aaa-rechargeable-b3ec.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-duracell-rechargeable-aa-1300mah-261b",
+    "name": "Duracell Rechargeable AA 1300mAh Batteries, 4Pcs",
+    "category": "Electronics",
+    "subcategory": "GeneralPurposeBatteries&BatteryChargers",
+    "priceInr": 479,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-duracell-rechargeable-aa-1300mah-261b.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-duracell-rechargeable-aa-2500mah-f3a4",
+    "name": "Duracell Rechargeable AA 2500mAh Batteries, 4 Pcs",
+    "category": "Electronics",
+    "subcategory": "GeneralPurposeBatteries&BatteryChargers",
+    "priceInr": 879,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-duracell-rechargeable-aa-2500mah-f3a4.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-duracell-ultra-alkaline-d-cd4e",
+    "name": "Duracell Ultra Alkaline D Battery, 2 Pcs",
+    "category": "Electronics",
+    "subcategory": "GeneralPurposeBatteries&BatteryChargers",
+    "priceInr": 380,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-duracell-ultra-alkaline-d-cd4e.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-e-cosmos-5v-12w-portable-c96b",
+    "name": "E-COSMOS 5V 1.2W Portable Flexible USB LED Light (Colors May Vary, Small) - Set of 2 Pieces",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 59,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-e-cosmos-5v-12w-portable-c96b.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-eco-crystal-j-5-a5e0",
+    "name": "Eco Crystal J 5 inch Cartridge (Pack of 2)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 199,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-eco-crystal-j-5-a5e0.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-electvision-remote-control-compatible-1b03",
+    "name": "Electvision Remote Control Compatible with Amazon Fire tv Stick (Pairing Manual Will be Back Side Remote Control)(P)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 1299,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-electvision-remote-control-compatible-1b03.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-elv-aluminum-adjustable-mobile-1387",
+    "name": "ELV Aluminum Adjustable Mobile Phone Foldable Tabletop Stand Dock Mount for All Smartphones, Tabs, Kindle, iPad (Black)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 269,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-elv-aluminum-adjustable-mobile-1387.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-elv-car-mount-adjustable-1433",
+    "name": "ELV Car Mount Adjustable Car Phone Holder Universal Long Arm, Windshield for Smartphones - Black",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 349,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-elv-car-mount-adjustable-1433.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-elv-mobile-phone-mount-296b",
+    "name": "Elv Mobile Phone Mount Tabletop Holder for Phones and Tablets - Black",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 89,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-elv-mobile-phone-mount-296b.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-envie-aa10004plni-cd-aa-rechargeable-169d",
+    "name": "ENVIE® (AA10004PLNi-CD) AA Rechargeable Batteries, Low Self Discharge, AA 1000mAh Ni-CD (Pack of 4)",
+    "category": "Electronics",
+    "subcategory": "GeneralPurposeBatteries&BatteryChargers",
+    "priceInr": 250,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-envie-aa10004plni-cd-aa-rechargeable-169d.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-eureka-forbes-aquasure-amrit-5dc2",
+    "name": "Eureka Forbes Aquasure Amrit Twin Cartridge (Pack of 2), White",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 825,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-eureka-forbes-aquasure-amrit-5dc2.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-faber-castell-connector-pen-set-6538",
+    "name": "Faber-Castell Connector Pen Set - Pack of 25 (Assorted)",
+    "category": "Toys&Games",
+    "subcategory": "Arts&Crafts",
+    "priceInr": 150,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-faber-castell-connector-pen-set-6538.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-firestick-remote-0db2",
+    "name": "Firestick Remote",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 1434,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-firestick-remote-0db2.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-flix-micro-usb-cable-ed2e",
+    "name": "Flix Micro Usb Cable For Smartphone (Black)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 59,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-flix-micro-usb-cable-ed2e.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-fujifilm-instax-mini-single-5f08",
+    "name": "Fujifilm Instax Mini Single Pack 10 Sheets Instant Film for Fuji Instant Cameras",
+    "category": "Electronics",
+    "subcategory": "Cameras&Photography",
+    "priceInr": 549,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-fujifilm-instax-mini-single-5f08.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-generic-ultra-mini-bluetooth-csr-b3c6",
+    "name": "GENERIC Ultra-Mini Bluetooth CSR 4.0 USB Dongle Adapter for Windows Computer ( Black:Golden)",
+    "category": "Computers&Accessories",
+    "subcategory": "NetworkingDevices",
+    "priceInr": 249,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-generic-ultra-mini-bluetooth-csr-b3c6.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-gilton-egg-boiler-electric-7161",
+    "name": "GILTON Egg Boiler Electric Automatic Off 7 Egg Poacher for Steaming, Cooking Also Boiling and Frying, Multi Color",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 353,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-gilton-egg-boiler-electric-7161.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-gizga-essentials-laptop-power-0bea",
+    "name": "Gizga Essentials Laptop Power Cable Cord- 3 Pin Adapter Isi Certified(1 Meter/3.3 Feet)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 179,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-gizga-essentials-laptop-power-0bea.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-glen-3-in-1-a88c",
+    "name": "Glen 3 in 1 Electric Multi Cooker - Steam, Cook & Egg Boiler with 350 W (SA 3035MC) - 350 Watts",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 1624,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-glen-3-in-1-a88c.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-goldmedal-curve-plus-202042-329b",
+    "name": "Goldmedal Curve Plus 202042 Plastic Spice 3-Pin 240V Universal Travel Adaptor (White)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 99,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-goldmedal-curve-plus-202042-329b.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-haneul1000-watt2000-watt-room-heater-59fe",
+    "name": "!!HANEUL!!1000 Watt/2000-Watt Room Heater!! Fan Heater!!Pure White!!HN-2500!!Made in India!!Thermoset!!",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 899,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-haneul1000-watt2000-watt-room-heater-59fe.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-havells-bero-quartz-heater-7e07",
+    "name": "Havells Bero Quartz Heater Black 800w 2 Heat Settings 2 Year Product Warranty",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 2439,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-havells-bero-quartz-heater-7e07.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-havells-festiva-1200mm-dust-89e6",
+    "name": "Havells Festiva 1200mm Dust Resistant Ceiling Fan (Gold Mist)",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 2899,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-havells-festiva-1200mm-dust-89e6.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-havells-gatik-neo-400mm-87c8",
+    "name": "Havells Gatik Neo 400mm Pedestal Fan (Aqua Blue)",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 2399,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-havells-gatik-neo-400mm-87c8.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-havells-immersion-hb15-1500-8257",
+    "name": "Havells Immersion HB15 1500 Watt (White Blue)",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 719,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-havells-immersion-hb15-1500-8257.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-havells-instanio-10-litre-fa2c",
+    "name": "Havells Instanio 10 Litre Storage Water Heater with Flexi Pipe and Free installation (White Blue)",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 6990,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-havells-instanio-10-litre-fa2c.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-havells-ofr-13-wave-b607",
+    "name": "Havells OFR 13 Wave Fin with PTC Fan Heater 2900 Watts (Black)",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 12499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-havells-ofr-13-wave-b607.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-havells-ventil-air-dx-a84e",
+    "name": "Havells Ventil Air DX 200mm Exhaust Fan (White)",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 1999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-havells-ventil-air-dx-a84e.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-havells-zella-flap-auto-874d",
+    "name": "Havells Zella Flap Auto Immersion Rod 1500 Watts",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 1499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-havells-zella-flap-auto-874d.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-hisense-108-cm-43-ab6d",
+    "name": "Hisense 108 cm (43 inches) 4K Ultra HD Smart Certified Android LED TV 43A6GE (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 20990,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-hisense-108-cm-43-ab6d.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-hisense-126-cm-50-f35e",
+    "name": "Hisense 126 cm (50 inches) Bezelless Series 4K Ultra HD Smart LED Google TV 50A6H (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 32990,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-hisense-126-cm-50-f35e.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-homepack-750w-radiant-room-a14c",
+    "name": "HOMEPACK 750W Radiant Room Home Office Heaters For Winter",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 649,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-homepack-750w-radiant-room-a14c.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-hp-32gb-class-10-7725",
+    "name": "HP 32GB Class 10 MicroSD Memory Card (U1 TF Card 32GB)",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "priceInr": 369,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-hp-32gb-class-10-7725.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-hp-65w-ac-laptops-9e80",
+    "name": "HP 65W AC Laptops Charger Adapter 4.5mm for HP Pavilion Black (Without Power Cable)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 770,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-hp-65w-ac-laptops-9e80.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-hp-682-black-original-c68a",
+    "name": "HP 682 Black Original Ink Cartridge",
+    "category": "Computers&Accessories",
+    "subcategory": "Printers,Inks&Accessories",
+    "priceInr": 828,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-hp-682-black-original-c68a.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-hp-gt-53-xl-ba9a",
+    "name": "HP GT 53 XL Cartridge Ink",
+    "category": "Computers&Accessories",
+    "subcategory": "Printers,Inks&Accessories",
+    "priceInr": 596,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-hp-gt-53-xl-ba9a.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-hp-v222w-64gb-usb-e782",
+    "name": "HP v222w 64GB USB 2.0 Pen Drive (Silver)",
+    "category": "Computers&Accessories",
+    "subcategory": "ExternalDevices&DataStorage",
+    "priceInr": 449,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-hp-v222w-64gb-usb-e782.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-hp-v236w-usb-20-b51f",
+    "name": "HP v236w USB 2.0 64GB Pen Drive, Metal",
+    "category": "Computers&Accessories",
+    "subcategory": "ExternalDevices&DataStorage",
+    "priceInr": 475,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-hp-v236w-usb-20-b51f.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-hul-pureit-germkill-kit-2d34",
+    "name": "HUL Pureit Germkill kit for Advanced 23 L water purifier - 3000 L Capacity, Sand, Multicolour",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 980,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-hul-pureit-germkill-kit-2d34.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-hul-pureit-germkill-kit-4936",
+    "name": "HUL Pureit Germkill kit for Classic 23 L water purifier - 3000 L Capacity",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 1130,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-hul-pureit-germkill-kit-4936.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-hul-pureit-germkill-kit-6939",
+    "name": "HUL Pureit Germkill kit for Classic 23 L water purifier - 1500 L Capacity",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 600,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-hul-pureit-germkill-kit-6939.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-humble-dynamic-lapel-collar-f13b",
+    "name": "HUMBLE Dynamic Lapel Collar Mic Voice Recording Filter Microphone for Singing Youtube SmartPhones, Black",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 199,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-humble-dynamic-lapel-collar-f13b.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-ibell-castor-ctek15l-premium-e506",
+    "name": "iBELL Castor CTEK15L Premium 1.5 Litre Stainless Steel Electric Kettle,1500W Auto Cut-Off Feature,Silver",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 664,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-ibell-castor-ctek15l-premium-e506.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-ibell-induction-cooktop-2000w-792a",
+    "name": "iBELL Induction Cooktop, 2000W with Auto Shut Off and Overheat Protection, BIS Certified, Black",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 1601,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-ibell-induction-cooktop-2000w-792a.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-ibell-mpk120l-premium-stainless-9d79",
+    "name": "iBELL MPK120L Premium Stainless Steel Multi Purpose Kettle/Cooker with Inner Pot 1.2 Litre (Silver)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 1456,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-ibell-mpk120l-premium-stainless-9d79.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-ibell-sm1301-3-in-1-sandwich-b0c5",
+    "name": "iBELL SM1301 3-in-1 Sandwich Maker with Detachable Plates for Toast / Waffle / Grill , 750 Watt (Black)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 2092,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-ibell-sm1301-3-in-1-sandwich-b0c5.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-ibell-sm1515new-sandwich-maker-3bb3",
+    "name": "iBELL SM1515NEW Sandwich Maker with Floating Hinges, 1000Watt, Panini / Grill / Toast (Black)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 1474,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-ibell-sm1515new-sandwich-maker-3bb3.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-iffalcon-80-cm-32-0411",
+    "name": "iFFALCON 80 cm (32 inches) HD Ready Smart LED TV 32F53 (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 9999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-iffalcon-80-cm-32-0411.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-ikea-90339172-polypropylene-plastic-0a23",
+    "name": "Ikea 903.391.72 Polypropylene Plastic Solid Bevara Sealing Clip (Multicolour) - 30 Pack, Adjustable",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 160,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-ikea-90339172-polypropylene-plastic-0a23.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-ikea-little-loved-corner-8163",
+    "name": "Ikea Little Loved Corner PRODUKT Milk-frother, Coffee/Tea Frother, Handheld Milk Wand Mixer Frother, Black",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 229,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-ikea-little-loved-corner-8163.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-iqoo-9-se-5g-e206",
+    "name": "iQOO 9 SE 5G (Sunset Sierra, 8GB RAM, 128GB Storage) | Qualcomm Snapdragon 888 | 66W Flash Charge",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 29990,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-iqoo-9-se-5g-e206.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-iqoo-neo-6-5g-fc59",
+    "name": "iQOO Neo 6 5G (Dark Nova, 8GB RAM, 128GB Storage) | Snapdragon® 870 5G | 80W FlashCharge",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 28999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-iqoo-neo-6-5g-fc59.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-jbl-c50hi-wired-in-9a18",
+    "name": "JBL C50HI, Wired in Ear Headphones with Mic, One Button Multi-Function Remote, Lightweight & Comfortable fit (Black)",
+    "category": "Electronics",
+    "subcategory": "Headphones,Earbuds&Accessories",
+    "priceInr": 499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-jbl-c50hi-wired-in-9a18.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-karbonn-80-cm-32-0bf3",
+    "name": "Karbonn 80 cm (32 Inches) Millennium Series HD Ready LED TV KJW32NSHDF (Phantom Black) with Bezel-Less Design",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 6999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-karbonn-80-cm-32-0bf3.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-kent-powp-sediment-filter-10-b9cf",
+    "name": "KENT POWP-Sediment Filter 10'' Thread WCAP",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 231,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-kent-powp-sediment-filter-10-b9cf.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-kitchenwell-multipurpose-portable-electronic-ae58",
+    "name": "Kitchenwell Multipurpose Portable Electronic Digital Weighing Scale Weight Machine | Weight Machine | 10 Kg",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 239,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-kitchenwell-multipurpose-portable-electronic-ae58.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-kodak-126-cm-50-2ac7",
+    "name": "Kodak 126 cm (50 inches) Bezel-Less Design Series 4K Ultra HD Smart Android LED TV 50UHDX7XPROBL (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 26999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-kodak-126-cm-50-2ac7.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-kodak-139-cm-55-538d",
+    "name": "Kodak 139 cm (55 inches) 4K Ultra HD Smart LED TV 55CA0909 (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 29999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-kodak-139-cm-55-538d.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-kodak-80-cm-32-41f9",
+    "name": "Kodak 80 cm (32 Inches) HD Ready LED TV Kodak 32HDX900S (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 7999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-kodak-80-cm-32-41f9.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-kodak-80-cm-32-c638",
+    "name": "Kodak 80 cm (32 inches) HD Ready Certified Android LED TV 32HDX7XPRO (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 9999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-kodak-80-cm-32-c638.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-lapster-15-mtr-usb-b9f0",
+    "name": "Lapster 1.5 mtr USB 2.0 Type A Male to USB A Male Cable for computer and laptop",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 139,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-lapster-15-mtr-usb-b9f0.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-lapster-accessories-power-cable-347a",
+    "name": "LAPSTER Accessories Power Cable Cord 2 Pin Laptop Adapter and Tape Recorder 1.5M",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 149,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-lapster-accessories-power-cable-347a.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-lava-charging-adapter-elements-0dcd",
+    "name": "Lava Charging Adapter Elements D3 2A Fast Charging Speed Usb Type C Data Cable, White",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 129,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-lava-charging-adapter-elements-0dcd.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-lifelong-llmg74-750-watt-8690",
+    "name": "Lifelong LLMG74 750 Watt Mixer Grinder with 3 Jars (White and Grey)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 1799,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-lifelong-llmg74-750-watt-8690.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-livpure-glo-star-rouvufmineraliser-630b",
+    "name": "Livpure Glo Star RO+UV+UF+Mineraliser - 7 L Storage Tank, 15 LPH Water Purifier for Home, Black",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 8499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-livpure-glo-star-rouvufmineraliser-630b.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-logitech-b100-wired-usb-324e",
+    "name": "Logitech B100 Wired USB Mouse, 3 yr Warranty, 800 DPI Optical Tracking, Ambidextrous PC/Mac/Laptop - Black",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 279,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-logitech-b100-wired-usb-324e.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-luxor-5-subject-single-12e0",
+    "name": "Luxor 5 Subject Single Ruled Notebook - A5 Size, 70 GSM, 300 Pages",
+    "category": "OfficeProducts",
+    "subcategory": "OfficePaperProducts",
+    "priceInr": 125,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-luxor-5-subject-single-12e0.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-maharaja-whiteline-lava-neo-ed5e",
+    "name": "Maharaja Whiteline Lava Neo 1200-Watts Halogen Heater (White and Red)",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 2499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-maharaja-whiteline-lava-neo-ed5e.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-maharaja-whiteline-nano-carbon-bb11",
+    "name": "Maharaja Whiteline Nano Carbon Neo, 500 Watts Room Heater (Black, White), Standard (5200100986)",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 1235,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-maharaja-whiteline-nano-carbon-bb11.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-maharaja-whiteline-odacio-plus-765c",
+    "name": "Maharaja Whiteline Odacio Plus 550-Watt Juicer Mixer Grinder with 3 Jars (Black/Silver)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 3349,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-maharaja-whiteline-odacio-plus-765c.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-mi-10000mah-li-polymer-micro-usb-27a7",
+    "name": "Mi 10000mAH Li-Polymer, Micro-USB and Type C Input Port, Power Bank 3i with 18W Fast Charging (Midnight Black)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 1149,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-mi-10000mah-li-polymer-micro-usb-27a7.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-mi-108-cm-43-52bc",
+    "name": "Mi 108 cm (43 inches) Full HD Android LED TV 4C | L43M6-INC (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 19999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-mi-108-cm-43-52bc.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-mi-10w-wall-charger-2290",
+    "name": "Mi 10W Wall Charger for Mobile Phones with Micro USB Cable (Black)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-mi-10w-wall-charger-2290.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-mi-2-in-1-usb-type-4b4f",
+    "name": "MI 2-in-1 USB Type C Cable (Micro USB to Type C) 30cm for Smartphone, Headphone, Laptop (White)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 179,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-mi-2-in-1-usb-type-4b4f.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-mi-33w-soniccharge-20-c665",
+    "name": "MI 33W SonicCharge 2.0 USB Charger for Cellular Phones - White",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-mi-33w-soniccharge-20-c665.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-mi-80-cm-32-3c4a",
+    "name": "MI 80 cm (32 inches) 5A Series HD Ready Smart Android LED TV L32M7-5AIN (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 13999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-mi-80-cm-32-3c4a.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-mi-80-cm-32-98d0",
+    "name": "MI 80 cm (32 inches) HD Ready Smart Android LED TV 5A Pro | L32M7-EAIN (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 16999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-mi-80-cm-32-98d0.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-mi-redmi-9i-sport-7c75",
+    "name": "MI REDMI 9i Sport (Carbon Black, 64 GB) (4 GB RAM)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 7915,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-mi-redmi-9i-sport-7c75.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-mi-usb-type-c-cable-1490",
+    "name": "MI Usb Type-C Cable Smartphone (Black)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 229,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-mi-usb-type-c-cable-1490.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-mi-xiaomi-225w-fast-7105",
+    "name": "MI Xiaomi 22.5W Fast USB Type C Charger Combo for Tablets - White",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 649,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-mi-xiaomi-225w-fast-7105.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-milton-smart-egg-boiler-802a",
+    "name": "MILTON Smart Egg Boiler 360-Watts (Transparent and Silver Grey), Boil Up to 7 Eggs",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 1099,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-milton-smart-egg-boiler-802a.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-model-p4-6-way-swivel-ccac",
+    "name": "Model-P4 6 Way Swivel Tilt Wall Mount 32-55-inch Full Motion Cantilever for LED,LCD and Plasma TV's",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 1599,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-model-p4-6-way-swivel-ccac.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-monitor-ac-standheavy-duty-c857",
+    "name": "Monitor AC Stand/Heavy Duty Air Conditioner Outdoor Unit Mounting Bracket",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 699,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-monitor-ac-standheavy-duty-c857.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-morphy-richards-icon-superb-341b",
+    "name": "Morphy Richards Icon Superb 750W Mixer Grinder, 4 Jars, Silver and Black",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 3249,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-morphy-richards-icon-superb-341b.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-noise-colorfit-pro-2-c2a4",
+    "name": "Noise ColorFit Pro 2 Full Touch Control Smart Watch with 35g Weight & Upgraded LCD Display (Deep Wine)",
+    "category": "Electronics",
+    "subcategory": "WearableTechnology",
+    "priceInr": 1499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-noise-colorfit-pro-2-c2a4.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-noisecolorfit-smart-watch-charger-0cd1",
+    "name": "Noise_Colorfit Smart Watch Charger 2 Pin USB Fast Charger Magnetic Charging Cable Adapter (Smart Watch Charger 2 pin)",
+    "category": "Electronics",
+    "subcategory": "WearableTechnology",
+    "priceInr": 249,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-noisecolorfit-smart-watch-charger-0cd1.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-nokia-105-plus-single-1f5b",
+    "name": "Nokia 105 Plus Single SIM, Keypad Mobile Phone with Wireless FM Radio, Memory Card Slot and MP3 Player | Charcoal",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 1324,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-nokia-105-plus-single-1f5b.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-nokia-105-plus-single-ddbd",
+    "name": "Nokia 105 Plus Single SIM, Keypad Mobile Phone with Wireless FM Radio, Memory Card Slot and MP3 Player | Red",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 1324,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-nokia-105-plus-single-ddbd.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-nokia-105-single-sim-c99b",
+    "name": "Nokia 105 Single SIM, Keypad Mobile Phone with Wireless FM Radio | Charcoal",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 1299,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-nokia-105-single-sim-c99b.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-nokia-105-single-sim-e485",
+    "name": "Nokia 105 Single SIM, Keypad Mobile Phone with Wireless FM Radio | Blue",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 1299,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-nokia-105-single-sim-e485.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-nokia-150-2020-cyan-89f7",
+    "name": "Nokia 150 (2020) (Cyan)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 2599,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-nokia-150-2020-cyan-89f7.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-nokia-8210-4g-volte-e252",
+    "name": "Nokia 8210 4G Volte keypad Phone with Dual SIM, Big Display, inbuilt MP3 Player & Wireless FM Radio | Blue",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 3799,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-nokia-8210-4g-volte-e252.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-oneplus-108-cm-43-ce37",
+    "name": "OnePlus 108 cm (43 inches) Y Series Full HD Smart Android LED TV 43 Y1S (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 24999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-oneplus-108-cm-43-ce37.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-oneplus-10r-5g-forest-e185",
+    "name": "OnePlus 10R 5G (Forest Green, 8GB RAM, 128GB Storage, 80W SuperVOOC)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 34999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-oneplus-10r-5g-forest-e185.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-oneplus-10t-5g-moonstone-8422",
+    "name": "OnePlus 10T 5G (Moonstone Black, 8GB RAM, 128GB Storage)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 44999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-oneplus-10t-5g-moonstone-8422.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-oneplus-126-cm-50-a4d5",
+    "name": "OnePlus 126 cm (50 inches) Y Series 4K Ultra HD Smart Android LED TV 50Y1S Pro (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 32999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-oneplus-126-cm-50-a4d5.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-oneplus-1387-cm-55-df78",
+    "name": "OnePlus 138.7 cm (55 inches) U Series 4K LED Smart Android TV 55U1S (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 42999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-oneplus-1387-cm-55-df78.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-oneplus-1638-cm-65-cac7",
+    "name": "OnePlus 163.8 cm (65 inches) U Series 4K LED Smart Android TV 65U1S (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 61999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-oneplus-1638-cm-65-cac7.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-oneplus-80-cm-32-7e12",
+    "name": "OnePlus 80 cm (32 inches) Y Series HD Ready Smart Android LED TV 32 Y1S (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 15999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-oneplus-80-cm-32-7e12.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-oneplus-nord-2t-5g-1dfa",
+    "name": "OnePlus Nord 2T 5G (Gray Shadow, 8GB RAM, 128GB Storage)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 28999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-oneplus-nord-2t-5g-1dfa.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-oneplus-nord-2t-5g-3147",
+    "name": "OnePlus Nord 2T 5G (Jade Fog, 12GB RAM, 256GB Storage)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 33999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-oneplus-nord-2t-5g-3147.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-oneplus-nord-2t-5g-31b3",
+    "name": "OnePlus Nord 2T 5G (Jade Fog, 8GB RAM, 128GB Storage)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 28999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-oneplus-nord-2t-5g-31b3.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-oppo-a31-mystery-black-2d15",
+    "name": "OPPO A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 12490,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-oppo-a31-mystery-black-2d15.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-oppo-a74-5g-fantastic-739d",
+    "name": "OPPO A74 5G (Fantastic Purple,6GB RAM,128GB Storage) with No Cost EMI/Additional Exchange Offers",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 15490,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-oppo-a74-5g-fantastic-739d.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-oppo-a74-5g-fluid-a2c5",
+    "name": "OPPO A74 5G (Fluid Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 15490,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-oppo-a74-5g-fluid-a2c5.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-parker-classic-gold-gold-a15b",
+    "name": "Parker Classic Gold Gold Trim Ball Pen",
+    "category": "OfficeProducts",
+    "subcategory": "OfficePaperProducts",
+    "priceInr": 480,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-parker-classic-gold-gold-a15b.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-parker-quink-ink-bottle-d2db",
+    "name": "Parker Quink Ink Bottle (Black)",
+    "category": "OfficeProducts",
+    "subcategory": "OfficePaperProducts",
+    "priceInr": 90,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-parker-quink-ink-bottle-d2db.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-pentonic-multicolor-ball-point-91d1",
+    "name": "Pentonic Multicolor Ball Point Pen, Pack of 10",
+    "category": "OfficeProducts",
+    "subcategory": "OfficePaperProducts",
+    "priceInr": 120,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-pentonic-multicolor-ball-point-91d1.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-philips-air-fryer-hd920090-c3f6",
+    "name": "PHILIPS Air Fryer HD9200/90, uses up to 90% less fat, 1400W, 4.1 Liter, with Rapid Air Technology (Black), Large",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 7199,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-philips-air-fryer-hd920090-c3f6.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-philips-drip-coffee-maker-e114",
+    "name": "PHILIPS Drip Coffee Maker HD7432/20, 0.6 L, Ideal for 2-7 cups, Black, Medium",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 2999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-philips-drip-coffee-maker-e114.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-philips-gc181-heavy-weight-d83b",
+    "name": "Philips GC181 Heavy Weight 1000-Watt Dry Iron, Pack of 1",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 1321,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-philips-gc181-heavy-weight-d83b.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-philips-handheld-garment-steamer-b8b2",
+    "name": "Philips Handheld Garment Steamer GC360/30 - Vertical & Horizontal Steaming, 1200 Watt, up to 22g/min",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 4280,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-philips-handheld-garment-steamer-b8b2.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-philips-hd697500-25-litre-e111",
+    "name": "Philips HD6975/00 25 Litre Digital Oven Toaster Grill, Grey, 25 liter",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 8599,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-philips-hd697500-25-litre-e111.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-philips-hd930606-15-litre-electric-f545",
+    "name": "Philips HD9306/06 1.5-Litre Electric Kettle (Multicolor)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 2695,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-philips-hd930606-15-litre-electric-f545.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-philips-hl775600-mixer-grinder-595e",
+    "name": "Philips HL7756/00 Mixer Grinder, 750W, 3 Jars (Black)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 3699,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-philips-hl775600-mixer-grinder-595e.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-philips-powerpro-fc935201-compact-ddfe",
+    "name": "Philips PowerPro FC9352/01 Compact Bagless Vacuum Cleaner (Blue)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 8999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-philips-powerpro-fc935201-compact-ddfe.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-philips-viva-collection-hd492801-9539",
+    "name": "Philips Viva Collection HD4928/01 2100-Watt Induction Cooktop with Feather Touch Sensor and Crystal Glass Plate (Black)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 3229,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-philips-viva-collection-hd492801-9539.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-pilot-frixion-clicker-roller-f67d",
+    "name": "Pilot Frixion Clicker Roller Pen (Blue), (9000019529)",
+    "category": "OfficeProducts",
+    "subcategory": "OfficePaperProducts",
+    "priceInr": 90,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-pilot-frixion-clicker-roller-f67d.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-pilot-v7-liquid-ink-c0ed",
+    "name": "Pilot V7 Liquid Ink Roller Ball Pen (2 Blue + 1 Black)",
+    "category": "OfficeProducts",
+    "subcategory": "OfficePaperProducts",
+    "priceInr": 178,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-pilot-v7-liquid-ink-c0ed.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-poco-c31-royal-blue-d99b",
+    "name": "POCO C31 (Royal Blue, 64 GB) (4 GB RAM)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 8499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-poco-c31-royal-blue-d99b.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-poco-c31-shadow-gray-91c3",
+    "name": "POCO C31 (Shadow Gray, 64 GB) (4 GB RAM)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 7998,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-poco-c31-shadow-gray-91c3.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-popio-type-c-dash-4d80",
+    "name": "POPIO Type C Dash Charging USB Data Cable for OnePlus Devices",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 350,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-popio-type-c-dash-4d80.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-portronics-clamp-x-car-vent-8b83",
+    "name": "Portronics CLAMP X Car-Vent Mobile Holder 360 Degree Rotational(Black)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 599,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-portronics-clamp-x-car-vent-8b83.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-portronics-modesk-por-122-universal-60a4",
+    "name": "Portronics MODESK POR-122 Universal Mobile Tabletop Holder (Black)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 134,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-portronics-modesk-por-122-universal-60a4.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-portronics-mport-31c-4-in-1-6073",
+    "name": "Portronics MPORT 31C 4-in-1 USB Hub (Type C to 4 USB-A Ports) with Fast Data Transfer",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 570,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-portronics-mport-31c-4-in-1-6073.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-preethi-mga-502-04-litre-grind-8ac4",
+    "name": "Preethi MGA-502 0.4-Litre Grind and Store Jar (White), stainless steel, Set of 1",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 635,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-preethi-mga-502-04-litre-grind-8ac4.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-prestige-clean-home-water-f474",
+    "name": "Prestige Clean Home Water Purifier Cartridge",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 600,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-prestige-clean-home-water-f474.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-prestige-delight-prwo-electric-4932",
+    "name": "Prestige Delight PRWO Electric Rice Cooker (1 L, White)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 2280,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-prestige-delight-prwo-electric-4932.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-prestige-electric-kettle-pkoss-85a0",
+    "name": "Prestige Electric Kettle PKOSS - 1500watts, Steel (1.5Ltr), Black",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 749,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-prestige-electric-kettle-pkoss-85a0.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-prestige-pic-150-1900-watt-e05d",
+    "name": "Prestige PIC 15.0+ 1900-Watt Induction Cooktop (Black)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 3180,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-prestige-pic-150-1900-watt-e05d.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-prestige-pic-160-1900w-3242",
+    "name": "Prestige PIC 16.0+ 1900W Induction Cooktop with Soft Touch Push Buttons (Black)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 2698,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-prestige-pic-160-1900w-3242.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-prestige-pic-20-1600-b270",
+    "name": "Prestige PIC 20 1600 Watt Induction Cooktop with Push button (Black)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 2148,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-prestige-pic-20-1600-b270.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-prestige-prwo-18-2-700-watts-6001",
+    "name": "Prestige PRWO 1.8-2 700-Watts Delight Electric Rice Cooker with 2 Aluminium Cooking Pans - 1.8 Liters, White",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 2719,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-prestige-prwo-18-2-700-watts-6001.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-prestige-psmfb-800-watt-4244",
+    "name": "Prestige PSMFB 800 Watt Sandwich Toaster with Fixed Plates, Black",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 1199,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-prestige-psmfb-800-watt-4244.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-prestige-pwg-07-wet-6f28",
+    "name": "Prestige PWG 07 Wet Grinder, 2L (Multicolor) with Coconut Scraper and Atta Kneader Attachments, 200 Watt",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 3710,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-prestige-pwg-07-wet-6f28.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-prestige-sandwich-maker-pgmfd-6736",
+    "name": "Prestige Sandwich Maker PGMFD 01, Black",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 1299,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-prestige-sandwich-maker-pgmfd-6736.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-prettykrafts-laundry-bag-basket-3368",
+    "name": "PrettyKrafts Laundry Bag / Basket for Dirty Clothes, Folding Round Laundry Bag,Set of 2, Black Wave",
+    "category": "Home&Kitchen",
+    "subcategory": "HomeStorage&Organization",
+    "priceInr": 320,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-prettykrafts-laundry-bag-basket-3368.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-prettykrafts-laundry-basket-for-596b",
+    "name": "PrettyKrafts Laundry Basket for clothes with Lid & Handles, Toys Organiser, 75 Ltr Grey",
+    "category": "Home&Kitchen",
+    "subcategory": "HomeStorage&Organization",
+    "priceInr": 351,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-prettykrafts-laundry-basket-for-596b.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-prettykrafts-laundry-basket-for-f5ad",
+    "name": "PrettyKrafts Laundry Basket for clothes with Lid & Handles, Toys Organiser, 75 Ltr Black & Grey",
+    "category": "Home&Kitchen",
+    "subcategory": "HomeStorage&Organization",
+    "priceInr": 351,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-prettykrafts-laundry-basket-for-f5ad.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-pro365-indo-mocktailscoffee-foamercappuccinolemonademilk-5a04",
+    "name": "PRO365 Indo Mocktails/Coffee Foamer/Cappuccino/Lemonade/Milk Frother (6 Months Warranty)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 249,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-pro365-indo-mocktailscoffee-foamercappuccinolemonademilk-5a04.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-prolegend-pl-t002-universal-tv-cbb0",
+    "name": "PROLEGEND® PL-T002 Universal TV Stand Table Top for Most 22 to 65 inch LCD Flat Screen TV, VESA up to 800 by 400mm",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 1850,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-prolegend-pl-t002-universal-tv-cbb0.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-prolet-classic-bumper-case-0a07",
+    "name": "Prolet Classic Bumper Case Cover for Samsung Galaxy Watch 4 44mm TPU Plated Full Screen Protector (Black)",
+    "category": "Electronics",
+    "subcategory": "WearableTechnology",
+    "priceInr": 265,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-prolet-classic-bumper-case-0a07.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-raffles-premium-stainless-steel-858e",
+    "name": "Raffles Premium Stainless Steel South Indian Coffee Filter/Drip Coffee Maker, 2-3 Cups, 150 ml",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 249,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-raffles-premium-stainless-steel-858e.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-realme-10w-fast-charging-63f7",
+    "name": "realme 10W Fast Charging Micro-USB Cable (Braided, Black)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 249,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-realme-10w-fast-charging-63f7.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-realme-buds-classic-wired-15c3",
+    "name": "realme Buds Classic Wired in Ear Earphones with Mic (Black)",
+    "category": "Electronics",
+    "subcategory": "Headphones,Earbuds&Accessories",
+    "priceInr": 399,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-realme-buds-classic-wired-15c3.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-realme-narzo-50i-mint-ad8e",
+    "name": "realme narzo 50i (Mint Green, 2GB RAM+32GB Storage) Octa Core Processor | 6.5\" inch Large Display",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 7499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-realme-narzo-50i-mint-ad8e.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-redgear-a-15-wired-gaming-d6f1",
+    "name": "Redgear A-15 Wired Gaming Mouse with Upto 6400 DPI, RGB & Driver Customization for PC(Black)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 599,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-redgear-a-15-wired-gaming-d6f1.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-redmi-126-cm-50-9143",
+    "name": "Redmi 126 cm (50 inches) 4K Ultra HD Android Smart LED TV X50 | L50M6-RA (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 32999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-redmi-126-cm-50-9143.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-redmi-9-activ-carbon-f5b8",
+    "name": "Redmi 9 Activ (Carbon Black, 4GB RAM, 64GB Storage) | Octa-core Helio G35 | 5000 mAh Battery",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 8499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-redmi-9-activ-carbon-f5b8.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-redmi-9a-sport-carbon-6e49",
+    "name": "Redmi 9A Sport (Carbon Black, 2GB RAM, 32GB Storage) | 2GHz Octa-core Helio G25 Processor | 5000 mAh Battery",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 6499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-redmi-9a-sport-carbon-6e49.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-redmi-9a-sport-coral-1901",
+    "name": "Redmi 9A Sport (Coral Green, 3GB RAM, 32GB Storage) | 2GHz Octa-core Helio G25 Processor | 5000 mAh Battery",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 7499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-redmi-9a-sport-coral-1901.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-redmi-9a-sport-coral-5ab0",
+    "name": "Redmi 9A Sport (Coral Green, 2GB RAM, 32GB Storage) | 2GHz Octa-core Helio G25 Processor | 5000 mAh Battery",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 6499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-redmi-9a-sport-coral-5ab0.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-robustrion-anti-scratch-smudge-proof-8403",
+    "name": "Robustrion Anti-Scratch & Smudge Proof Tempered Glass Screen Protector for Xiaomi Mi Pad 5 11 inch",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 379,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-robustrion-anti-scratch-smudge-proof-8403.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-robustrion-tempered-glass-screen-92f6",
+    "name": "Robustrion Tempered Glass Screen Protector for iPad 10.2 inch 9th Gen Generation 2021 8th Gen 2020 7th Gen 2019",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 399,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-robustrion-tempered-glass-screen-92f6.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-saiyam-stainless-steel-espresso-7d29",
+    "name": "Saiyam Stainless Steel Espresso Maker Stovetop Coffee Percolator Italian Coffee Maker Moka Pot (4 Cup - 200 ml, Silver)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 599,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-saiyam-stainless-steel-espresso-7d29.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-samsung-108-cm-43-1257",
+    "name": "Samsung 108 cm (43 inches) Crystal 4K Series Ultra HD Smart LED TV UA43AUE60AKLXL (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 30990,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-samsung-108-cm-43-1257.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-samsung-108-cm-43-fe9d",
+    "name": "Samsung 108 cm (43 inches) Crystal 4K Neo Series Ultra HD Smart LED TV UA43AUE65AKXXL (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 32990,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-samsung-108-cm-43-fe9d.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-samsung-25w-usb-travel-d1af",
+    "name": "Samsung 25W USB Travel Adapter for Cellular Phones - White",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 1219,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-samsung-25w-usb-travel-d1af.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-samsung-ehs64-ehs64avfwecinu-hands-free-31e0",
+    "name": "Samsung Ehs64 Ehs64Avfwecinu Hands-Free Wired In Ear Earphones With Mic With Remote Note (White)",
+    "category": "Electronics",
+    "subcategory": "Headphones,Earbuds&Accessories",
+    "priceInr": 499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-samsung-ehs64-ehs64avfwecinu-hands-free-31e0.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-samsung-evo-plus-128gb-b9a7",
+    "name": "Samsung EVO Plus 128GB microSDXC UHS-I U3 130MB/s Full HD & 4K UHD Memory Card with Adapter (MB-MC128KA), Blue",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "priceInr": 1149,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-samsung-evo-plus-128gb-b9a7.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-samsung-evo-plus-64gb-b461",
+    "name": "Samsung EVO Plus 64GB microSDXC UHS-I U1 130MB/s Full HD & 4K UHD Memory Card with Adapter (MB-MC64KA), Blue",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "priceInr": 599,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-samsung-evo-plus-64gb-b461.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-samsung-galaxy-buds-live-1eac",
+    "name": "Samsung Galaxy Buds Live Bluetooth Truly Wireless in Ear Earbuds with Mic, Upto 21 Hours Playtime, Mystic Black",
+    "category": "Electronics",
+    "subcategory": "Headphones,Earbuds&Accessories",
+    "priceInr": 4790,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-samsung-galaxy-buds-live-1eac.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-samsung-galaxy-m04-dark-ed47",
+    "name": "Samsung Galaxy M04 Dark Blue, 4GB RAM, 64GB Storage | Upto 8GB RAM with RAM Plus | MediaTek Helio P35 | 5000 mAh Battery",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 9499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-samsung-galaxy-m04-dark-ed47.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-samsung-galaxy-m13-5g-387a",
+    "name": "Samsung Galaxy M13 5G (Aqua Green, 6GB, 128GB Storage) | 5000mAh Battery | Upto 12GB RAM with RAM Plus",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 13999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-samsung-galaxy-m13-5g-387a.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-samsung-galaxy-m13-5g-bfa8",
+    "name": "Samsung Galaxy M13 5G (Stardust Brown, 6GB, 128GB Storage) | 5000mAh Battery | Upto 12GB RAM with RAM Plus",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 13999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-samsung-galaxy-m13-5g-bfa8.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-samsung-galaxy-m13-aqua-ba0d",
+    "name": "Samsung Galaxy M13 (Aqua Green, 4GB, 64GB Storage) | 6000mAh Battery | Upto 8GB RAM with RAM Plus",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 10999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-samsung-galaxy-m13-aqua-ba0d.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-samsung-galaxy-m13-aqua-eab0",
+    "name": "Samsung Galaxy M13 (Aqua Green, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 12999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-samsung-galaxy-m13-aqua-eab0.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-samsung-galaxy-m13-midnight-98bd",
+    "name": "Samsung Galaxy M13 (Midnight Blue, 4GB, 64GB Storage) | 6000mAh Battery | Upto 8GB RAM with RAM Plus",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 10999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-samsung-galaxy-m13-midnight-98bd.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-samsung-galaxy-m13-stardust-2f90",
+    "name": "Samsung Galaxy M13 (Stardust Brown, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 12999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-samsung-galaxy-m13-stardust-2f90.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-samsung-galaxy-m32-prime-27d3",
+    "name": "Samsung Galaxy M32 Prime Edition (Light Blue, 4GB RAM, 64GB)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 12999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-samsung-galaxy-m32-prime-27d3.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-samsung-galaxy-s20-fe-08ae",
+    "name": "Samsung Galaxy S20 FE 5G (Cloud Navy, 8GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 37990,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-samsung-galaxy-s20-fe-08ae.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-samsung-galaxy-watch4-bluetooth44-6e1a",
+    "name": "Samsung Galaxy Watch4 Bluetooth(4.4 cm, Black, Compatible with Android only)",
+    "category": "Electronics",
+    "subcategory": "WearableTechnology",
+    "priceInr": 12000,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-samsung-galaxy-watch4-bluetooth44-6e1a.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-samsung-original-25w-usb-21a2",
+    "name": "Samsung Original 25W USB Travel Lightning Adapter for Cellular Phones, Black",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 1075,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-samsung-original-25w-usb-21a2.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-samsung-original-ehs64-wired-553b",
+    "name": "Samsung Original EHS64 Wired in Ear Earphones with Mic, Black",
+    "category": "Electronics",
+    "subcategory": "Headphones,Earbuds&Accessories",
+    "priceInr": 949,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-samsung-original-ehs64-wired-553b.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-sandisk-cruzer-blade-32gb-6771",
+    "name": "SanDisk Cruzer Blade 32GB USB Flash Drive",
+    "category": "Computers&Accessories",
+    "subcategory": "ExternalDevices&DataStorage",
+    "priceInr": 289,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-sandisk-cruzer-blade-32gb-6771.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-sandisk-extreme-microsd-uhs-cab9",
+    "name": "SanDisk Extreme microSD UHS I Card 128GB for 4K Video on Smartphones,Action Cams 190MB/s Read,90MB/s Write",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "priceInr": 1329,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-sandisk-extreme-microsd-uhs-cab9.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-sandisk-ultra-128-gb-1800",
+    "name": "SanDisk Ultra 128 GB USB 3.0 Pen Drive (Black)",
+    "category": "Computers&Accessories",
+    "subcategory": "ExternalDevices&DataStorage",
+    "priceInr": 889,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-sandisk-ultra-128-gb-1800.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-sandisk-ultra-64-gb-02e0",
+    "name": "SanDisk Ultra 64 GB USB Pen Drives (SDDDC2-064G-I35, Black, Silver)",
+    "category": "Computers&Accessories",
+    "subcategory": "ExternalDevices&DataStorage",
+    "priceInr": 729,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-sandisk-ultra-64-gb-02e0.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-sandisk-ultra-dual-64-506d",
+    "name": "SanDisk Ultra Dual 64 GB USB 3.0 OTG Pen Drive (Black)",
+    "category": "Computers&Accessories",
+    "subcategory": "ExternalDevices&DataStorage",
+    "priceInr": 579,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-sandisk-ultra-dual-64-506d.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-sandisk-ultra-flair-64gb-c9b6",
+    "name": "SanDisk Ultra Flair 64GB USB 3.0 Pen Drive, Multicolor",
+    "category": "Computers&Accessories",
+    "subcategory": "ExternalDevices&DataStorage",
+    "priceInr": 519,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-sandisk-ultra-flair-64gb-c9b6.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-sandisk-ultra-microsd-uhs-i-15e7",
+    "name": "SanDisk Ultra microSD UHS-I Card 32GB, 120MB/s R",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "priceInr": 369,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-sandisk-ultra-microsd-uhs-i-15e7.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-sandisk-ultra-microsd-uhs-i-1c59",
+    "name": "SanDisk Ultra microSD UHS-I Card 64GB, 120MB/s R",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "priceInr": 649,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-sandisk-ultra-microsd-uhs-i-1c59.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-sandisk-ultra-microsdxc-uhs-i-8825",
+    "name": "SanDisk Ultra® microSDXC™ UHS-I Card, 128GB, 140MB/s R, 10 Y Warranty, for Smartphones",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "priceInr": 959,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-sandisk-ultra-microsdxc-uhs-i-8825.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-sandisk-ultra-microsdxc-uhs-i-c2c6",
+    "name": "SanDisk Ultra® microSDXC™ UHS-I Card, 64GB, 140MB/s R, 10 Y Warranty, for Smartphones",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "priceInr": 569,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-sandisk-ultra-microsdxc-uhs-i-c2c6.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-sandisk-ultra-microsdxc-uhs-i-c319",
+    "name": "SanDisk Ultra® microSDXC™ UHS-I Card, 256GB, 150MB/s R, 10 Y Warranty, for Smartphones",
+    "category": "Electronics",
+    "subcategory": "Accessories",
+    "priceInr": 1989,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-sandisk-ultra-microsdxc-uhs-i-c319.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-shakti-technology-s5-high-5ae4",
+    "name": "Shakti Technology S5 High Pressure Car Washer Machine 1900 Watts and Pressure 125 Bar with 10 Meter Hose Pipe",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 5999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-shakti-technology-s5-high-5ae4.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-shreenova-id116-plus-bluetooth-f054",
+    "name": "SHREENOVA ID116 Plus Bluetooth Fitness Smart Watch for Men Women and Kids Activity Tracker (Black)",
+    "category": "Electronics",
+    "subcategory": "WearableTechnology",
+    "priceInr": 281,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-shreenova-id116-plus-bluetooth-f054.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-skywall-8128-cm-32-21d0",
+    "name": "SKYWALL 81.28 cm (32 inches) HD Ready Smart LED TV 32SWELS-PRO (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 7299,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-skywall-8128-cm-32-21d0.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-soflin-egg-boiler-electric-79b7",
+    "name": "SOFLIN Egg Boiler Electric Automatic Off 7 Egg Poacher for Steaming, Cooking, Boiling and Frying (400 Watts, Blue)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 379,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-soflin-egg-boiler-electric-79b7.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-solidaire-550-watt-mixer-grinder-a35c",
+    "name": "Solidaire 550-Watt Mixer Grinder with 3 Jars (Black) (SLD-550-B)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 1649,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-solidaire-550-watt-mixer-grinder-a35c.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-sony-bravia-164-cm-3d3a",
+    "name": "Sony Bravia 164 cm (65 inches) 4K Ultra HD Smart LED Google TV KD-65X74K (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 77990,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-sony-bravia-164-cm-3d3a.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-spigen-ez-fit-tempered-42f7",
+    "name": "Spigen EZ Fit Tempered Glass Screen Protector for iPhone 14 Pro - 2 Pack (Sensor Protection)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-spigen-ez-fit-tempered-42f7.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-spigen-ez-fit-tempered-b3ab",
+    "name": "Spigen EZ Fit Tempered Glass Screen Protector Guard for iPhone 14/13/13 Pro - 2 Pack",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-spigen-ez-fit-tempered-b3ab.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-spigen-ez-fit-tempered-dd31",
+    "name": "Spigen EZ Fit Tempered Glass Screen Protector for iPhone 14 Pro Max - 2 Pack (Sensor Protection)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-spigen-ez-fit-tempered-dd31.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-spigen-ultra-hybrid-back-8d8a",
+    "name": "Spigen Ultra Hybrid Back Cover Case Compatible with iPhone 14 Pro max (TPU + Poly Carbonate | Crystal Clear)",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 1599,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-spigen-ultra-hybrid-back-8d8a.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-storio-kids-toys-lcd-af51",
+    "name": "Storio Kids Toys LCD Writing Tablet 8.5Inch E-Note Pad Best Birthday Gift for Girls Boys, Multicolor (SC1667)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 217,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-storio-kids-toys-lcd-af51.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-storite-high-speed-micro-ab3b",
+    "name": "Storite High Speed Micro USB 3.0 Cable A to Micro B for External & Desktop Hard Drives 45cm",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 299,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-storite-high-speed-micro-ab3b.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-storite-super-speed-usb-89a5",
+    "name": "Storite Super Speed USB 3.0 Male to Male Cable for Hard Drive Enclosures, Laptop Cooling Pad, DVD Players(60cm,Black)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 249,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-storite-super-speed-usb-89a5.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-stylehouse-lint-remover-for-22a9",
+    "name": "StyleHouse Lint Remover for Woolen Clothes, Electric Lint Remover, Best Lint Shaver for Clothes",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 455,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-stylehouse-lint-remover-for-22a9.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-sujata-dynamix-dx-mixer-27e3",
+    "name": "Sujata Dynamix DX Mixer Grinder, 900W, 3 Jars (White)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 6120,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-sujata-dynamix-dx-mixer-27e3.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-sujata-dynamix-mixer-grinder-1068",
+    "name": "Sujata Dynamix, Mixer Grinder, 900 Watts, 3 Jars (White)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 6120,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-sujata-dynamix-mixer-grinder-1068.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-sujata-powermatic-plus-juicer-82b7",
+    "name": "Sujata Powermatic Plus, Juicer Mixer Grinder with Chutney Jar, 900 Watts, 3 Jars (White)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 6525,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-sujata-powermatic-plus-juicer-82b7.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-sujata-supermix-mixer-grinder-810b",
+    "name": "Sujata Supermix, Mixer Grinder, 900 Watts, 3 Jars (White)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 5490,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-sujata-supermix-mixer-grinder-810b.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-svm-products-unbreakable-set-518d",
+    "name": "SVM Products Unbreakable Set Top Box Stand with Dual Remote Holder (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 96,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-svm-products-unbreakable-set-518d.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-tata-sky-hd-connection-7f4e",
+    "name": "TATA SKY HD Connection with 1 month basic package and free installation",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 1249,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-tata-sky-hd-connection-7f4e.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-tata-sky-universal-remote-a5ab",
+    "name": "Tata Sky Universal Remote",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 230,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-tata-sky-universal-remote-a5ab.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-tata-swach-bulb-6000-litre-8629",
+    "name": "Tata Swach Bulb 6000-Litre Cartridge, 1 Piece, White, Hollow Fiber Membrane",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 698,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-tata-swach-bulb-6000-litre-8629.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-tcl-108-cm-43-c8c6",
+    "name": "TCL 108 cm (43 inches) 4K Ultra HD Certified Android Smart LED TV 43P615 (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 24990,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-tcl-108-cm-43-c8c6.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-tcl-80-cm-32-62de",
+    "name": "TCL 80 cm (32 inches) HD Ready Certified Android Smart LED TV 32S615 (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 11990,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-tcl-80-cm-32-62de.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-tcl-80-cm-32-7c3a",
+    "name": "TCL 80 cm (32 inches) HD Ready Certified Android Smart LED TV 32S5205 (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 10901,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-tcl-80-cm-32-7c3a.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-technotech-high-speed-hdmi-548c",
+    "name": "Technotech High Speed HDMI Cable 5 Meter V1.4 - Supports Full HD 1080p (Color May Vary)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 185,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-technotech-high-speed-hdmi-548c.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-tecno-spark-8t-turquoise-a7db",
+    "name": "Tecno Spark 8T (Turquoise Cyan, 4GB RAM,64GB Storage) | 50MP AI Camera | 7GB Expandable RAM",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 8499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-tecno-spark-8t-turquoise-a7db.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-tecno-spark-9-sky-f5fc",
+    "name": "Tecno Spark 9 (Sky Mirror, 6GB RAM,128GB Storage) | 11GB Expandable RAM | Helio G37 Gaming Processor",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 8999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-tecno-spark-9-sky-f5fc.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-tizum-high-speed-hdmi-df12",
+    "name": "TIZUM High Speed HDMI Cable Aura -Gold Plated-High Speed Data 10.2Gbps, 3D, 4K, HD 1080P (10 Ft/ 3 M)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 379,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-tizum-high-speed-hdmi-df12.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-tom-jerry-folding-laundry-ca27",
+    "name": "Tom & Jerry Folding Laundry Basket for Clothes with Lid & Handle, Toys Organiser, 75 Litre, Green",
+    "category": "Home&Kitchen",
+    "subcategory": "HomeStorage&Organization",
+    "priceInr": 351,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-tom-jerry-folding-laundry-ca27.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-tosaa-t2stsr-sandwich-gas-a1d0",
+    "name": "Tosaa T2STSR Sandwich Gas Toaster Regular (Black)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 260,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-tosaa-t2stsr-sandwich-gas-a1d0.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-tp-link-tl-wa855re-300-mbps-255c",
+    "name": "TP-Link TL-WA855RE 300 Mbps Wi-Fi Range Extender (White)",
+    "category": "Computers&Accessories",
+    "subcategory": "NetworkingDevices",
+    "priceInr": 1599,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-tp-link-tl-wa855re-300-mbps-255c.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-ttk-prestige-limited-orion-3b97",
+    "name": "TTK Prestige Limited Orion Mixer Grinder 500 Watts, 3 Jars (1200ml, 1000ml, 500ml) (Red)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 2199,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-ttk-prestige-limited-orion-3b97.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-urbn-10000-mah-lithium-99c2",
+    "name": "URBN 10000 mAh Lithium Power Bank UPR10K with 12 Watt Fast Charging, Blue",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 900,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-urbn-10000-mah-lithium-99c2.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-urbn-20000-mah-lithiumpolymer-9d46",
+    "name": "URBN 20000 mAh lithium_polymer Power Bank with 12 Watt Fast Charging, Camo",
+    "category": "Electronics",
+    "subcategory": "Mobiles&Accessories",
+    "priceInr": 1599,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-urbn-20000-mah-lithiumpolymer-9d46.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-usha-aurora-1000-w-1d2b",
+    "name": "Usha Aurora 1000 W Dry Iron with Innovative Tail Light Indicator, Weilburger Soleplate (White & Grey)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 717,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-usha-aurora-1000-w-1d2b.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-usha-goliath-go1200wg-heavy-bb58",
+    "name": "Usha Goliath GO1200WG Heavy Weight 1200-Watt Dry Iron, 1.8 Kg(Red)",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 1199,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-usha-goliath-go1200wg-heavy-bb58.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-usha-heat-convector-812-3829",
+    "name": "USHA Heat Convector 812 T 2000-Watt with Instant Heating Feature (Black)",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 2199,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-usha-heat-convector-812-3829.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-usha-ih2415-1500-watt-immersion-a7f5",
+    "name": "Usha IH2415 1500-Watt Immersion Heater (Silver)",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 510,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-usha-ih2415-1500-watt-immersion-a7f5.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-usha-quartz-room-heater-2a50",
+    "name": "USHA Quartz Room Heater with Overheating Protection (3002, Ivory, 800 Watts)",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 1199,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-usha-quartz-room-heater-2a50.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-v-guard-zio-instant-water-6ddf",
+    "name": "V-Guard Zio Instant Water Geyser | 3 Litre | 3000 W Heating | White-Blue | | 2 Year Warranty",
+    "category": "Home&Kitchen",
+    "subcategory": "Heating,Cooling&AirQuality",
+    "priceInr": 2699,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-v-guard-zio-instant-water-6ddf.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-vu-108-cm-43-4995",
+    "name": "VU 108 cm (43 inches) Premium Series Full HD Smart LED TV 43GA (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 18999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-vu-108-cm-43-4995.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-vu-138-cm-55-a7e2",
+    "name": "VU 138 cm (55 inches) Premium Series 4K Ultra HD Smart IPS LED TV 55UT (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 29990,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-vu-138-cm-55-a7e2.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-vu-139-cm-55-4b45",
+    "name": "VU 139 cm (55 inches) The GloLED Series 4K Smart LED Google TV 55GloLED (Grey)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 37999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-vu-139-cm-55-4b45.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-vw-80-cm-32-371d",
+    "name": "VW 80 cm (32 inches) Playwall Frameless Series HD Ready Android Smart LED TV VW3251 (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 8499,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-vw-80-cm-32-371d.webp",
+    "difficulty": "hard"
+  },
+  {
+    "id": "p-vw-80-cm-32-c2d9",
+    "name": "VW 80 cm (32 inches) Frameless Series HD Ready LED TV VW32A (Black)",
+    "category": "Electronics",
+    "subcategory": "HomeTheater,TV&Video",
+    "priceInr": 6999,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-vw-80-cm-32-c2d9.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-wayona-nylon-braided-usb-60c2",
+    "name": "Wayona Nylon Braided Usb Syncing And Charging Cable Sync And Charging Cable For Iphone, Ipad (3 Ft, Black) - Pack Of 2",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 649,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-wayona-nylon-braided-usb-60c2.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-wipro-smartlife-super-deluxe-9732",
+    "name": "Wipro Smartlife Super Deluxe Dry Iron- 1000W",
+    "category": "Home&Kitchen",
+    "subcategory": "Kitchen&HomeAppliances",
+    "priceInr": 699,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-wipro-smartlife-super-deluxe-9732.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-xiaomi-mi-wired-in-2dee",
+    "name": "Xiaomi Mi Wired in Ear Earphones with Mic Basic with Ultra Deep Bass & Aluminum Alloy Sound Chamber (Black)",
+    "category": "Electronics",
+    "subcategory": "Headphones,Earbuds&Accessories",
+    "priceInr": 429,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-xiaomi-mi-wired-in-2dee.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-zebronics-wired-keyboard-and-ad06",
+    "name": "Zebronics Wired Keyboard and Mouse Combo with 104 Keys and a USB Mouse with 1200 DPI - JUDWAA 750",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 448,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-zebronics-wired-keyboard-and-ad06.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-zebronics-zeb-90hb-usb-hub-3c2a",
+    "name": "Zebronics ZEB-90HB USB Hub, 4 Ports, Pocket Sized, Plug & Play, for Laptop & Computers",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 179,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-zebronics-zeb-90hb-usb-hub-3c2a.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-zebronics-zeb-comfort-wired-usb-ef05",
+    "name": "ZEBRONICS Zeb-Comfort Wired USB Mouse, 3-Button, 1000 DPI Optical Sensor, Plug & Play, for Windows/Mac, Black",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 139,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-zebronics-zeb-comfort-wired-usb-ef05.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-zebronics-zeb-companion-107-usb-7b83",
+    "name": "Zebronics Zeb-Companion 107 USB Wireless Keyboard and Mouse Set with Nano Receiver (Black)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 699,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-zebronics-zeb-companion-107-usb-7b83.webp",
+    "difficulty": "medium"
+  },
+  {
+    "id": "p-zebronics-zeb-km2100-multimedia-usb-ba61",
+    "name": "Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 329,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-zebronics-zeb-km2100-multimedia-usb-ba61.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-zebronics-zeb-nc3300-usb-powered-5ad6",
+    "name": "Zebronics, ZEB-NC3300 USB Powered Laptop Cooling Pad with Dual Fan, Dual USB Port and Blue LED Lights",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 599,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-zebronics-zeb-nc3300-usb-powered-5ad6.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-zebronics-zeb-power-wired-usb-b382",
+    "name": "Zebronics Zeb-Power Wired USB Mouse, 3-Button, 1200 DPI Optical Sensor, Plug & Play, for Windows/Mac",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 149,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-zebronics-zeb-power-wired-usb-b382.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-zebronics-zeb-thunder-bluetooth-wireless-e7b8",
+    "name": "ZEBRONICS Zeb-Thunder Bluetooth Wireless Over Ear Headphone FM, mSD, 9 hrs Playback with Mic (Black)",
+    "category": "Electronics",
+    "subcategory": "Headphones,Earbuds&Accessories",
+    "priceInr": 599,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-zebronics-zeb-thunder-bluetooth-wireless-e7b8.webp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "p-zodo-8-5-inch-58cb",
+    "name": "Zodo 8. 5 inch LCD E-Writer Electronic Writing Pad/Tablet Drawing Board (Paperless Memo Digital Tablet)",
+    "category": "Computers&Accessories",
+    "subcategory": "Accessories&Peripherals",
+    "priceInr": 100,
+    "imageUrl": "https://frwxgtmdjjvpvyqfnqez.supabase.co/storage/v1/object/public/product-images/p-zodo-8-5-inch-58cb.webp",
+    "difficulty": "easy"
   }
 ]
