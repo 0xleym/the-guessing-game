@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { motion } from 'framer-motion';
 import { Button } from '@/components/ui/Button';
+import { ThemeToggle } from '@/components/ThemeToggle';
 import { GameMode } from '@/types';
 
 export default function HomePage() {
@@ -15,38 +16,43 @@ export default function HomePage() {
   };
 
   return (
-    <div className="min-h-screen bg-zinc-950 flex flex-col items-center justify-center px-4">
+    <div className="min-h-[100dvh] bg-surface flex flex-col items-center justify-center px-4 py-8">
       <motion.div
         initial={{ opacity: 0, y: 30 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6 }}
-        className="text-center max-w-lg mx-auto"
+        className="text-center max-w-lg mx-auto w-full"
       >
-        {/* Logo */}
-        <div className="text-7xl mb-6">🏷️</div>
+        {/* Theme Toggle */}
+        <div className="flex justify-end mb-4">
+          <ThemeToggle />
+        </div>
 
-        <h1 className="text-4xl md:text-5xl font-bold text-white mb-3">
-          Price <span className="text-orange-500">Guesser</span>
+        {/* Logo */}
+        <div className="text-6xl sm:text-7xl mb-6">🏷️</div>
+
+        <h1 className="text-4xl md:text-5xl font-bold text-text-primary mb-3">
+          Price <span className="text-accent">Guesser</span>
         </h1>
 
-        <p className="text-zinc-400 text-lg mb-10">
-          Can you guess the price of Amazon products? Test your pricing instincts and compete
-          globally!
+        <p className="text-text-secondary text-base sm:text-lg mb-10">
+          Can you guess the price of everyday products? Test your pricing instincts and
+          compete!
         </p>
 
         {/* Mode Selector */}
         <div className="mb-8">
-          <p className="text-zinc-500 text-sm mb-3 uppercase tracking-wider">Choose your mode</p>
+          <p className="text-text-tertiary text-sm mb-3 uppercase tracking-wider">Choose your mode</p>
           <div className="flex gap-3 justify-center">
             {([5, 10] as GameMode[]).map((mode) => (
               <button
                 key={mode}
                 onClick={() => setSelectedMode(mode)}
-                className={`px-6 py-3 rounded-xl font-semibold text-lg transition-all border cursor-pointer
+                className={`px-6 py-3 rounded-xl font-semibold text-lg transition-all border cursor-pointer min-h-[44px]
                   ${
                     selectedMode === mode
-                      ? 'bg-orange-500/20 border-orange-500/50 text-orange-400'
-                      : 'bg-zinc-800/50 border-zinc-700/50 text-zinc-400 hover:border-zinc-600'
+                      ? 'bg-accent/20 border-accent/50 text-accent'
+                      : 'bg-surface-input/50 border-border-input/50 text-text-secondary hover:border-border-input'
                   }`}
               >
                 {mode} Rounds
@@ -56,28 +62,28 @@ export default function HomePage() {
         </div>
 
         {/* Start Button */}
-        <Button onClick={handleStart} size="lg" className="text-xl px-12">
+        <Button onClick={handleStart} size="lg" className="text-xl px-12 w-full sm:w-auto">
           Start Game
         </Button>
 
         {/* How to Play */}
-        <div className="mt-12 bg-zinc-900/50 border border-zinc-800 rounded-2xl p-6 text-left">
-          <h3 className="text-white font-semibold mb-3">How to Play</h3>
-          <ul className="space-y-2 text-zinc-400 text-sm">
+        <div className="mt-12 bg-surface-card/50 border border-border rounded-2xl p-5 sm:p-6 text-left">
+          <h3 className="text-text-primary font-semibold mb-3">How to Play</h3>
+          <ul className="space-y-2 text-text-secondary text-sm">
             <li className="flex gap-2">
-              <span className="text-orange-400">1.</span> See a product from Amazon India
+              <span className="text-accent">1.</span> See a product and its details
             </li>
             <li className="flex gap-2">
-              <span className="text-orange-400">2.</span> Guess its price in INR
+              <span className="text-accent">2.</span> Guess its price
             </li>
             <li className="flex gap-2">
-              <span className="text-orange-400">3.</span> The closer you are, the more points you earn
+              <span className="text-accent">3.</span> The closer you are, the more points you earn
             </li>
             <li className="flex gap-2">
-              <span className="text-orange-400">4.</span> Use 2 lifelines wisely — Category Reveal & Price Range
+              <span className="text-accent">4.</span> Use 2 lifelines wisely — Category Reveal & Price Range
             </li>
             <li className="flex gap-2">
-              <span className="text-orange-400">5.</span> Submit your score to the global leaderboard!
+              <span className="text-accent">5.</span> Submit your score to the leaderboard!
             </li>
           </ul>
         </div>
@@ -85,7 +91,7 @@ export default function HomePage() {
         {/* Leaderboard Link */}
         <button
           onClick={() => router.push('/leaderboard')}
-          className="mt-6 text-zinc-500 hover:text-orange-400 transition-colors text-sm cursor-pointer"
+          className="mt-6 text-text-tertiary hover:text-accent transition-colors text-sm cursor-pointer"
         >
           View Leaderboard →
         </button>

@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
+import { useTheme } from 'next-themes';
 import { CountryStats } from '@/types';
 
 interface Props {
@@ -12,6 +13,8 @@ interface Props {
 
 export default function WorldMapInner({ countries }: Props) {
   const [geoData, setGeoData] = useState<GeoJSON.FeatureCollection | null>(null);
+  const { resolvedTheme } = useTheme();
+  const isDark = resolvedTheme === 'dark';
 
   useEffect(() => {
     fetch('/countries.geojson')
@@ -22,8 +25,8 @@ export default function WorldMapInner({ countries }: Props) {
 
   if (!geoData) {
     return (
-      <div className="aspect-[4/3] bg-zinc-800 rounded-xl flex items-center justify-center animate-pulse">
-        <p className="text-zinc-600 text-sm">Loading map...</p>
+      <div className="aspect-[4/3] bg-surface-input rounded-xl flex items-center justify-center animate-pulse">
+        <p className="text-text-tertiary text-sm">Loading map...</p>
       </div>
     );
   }
@@ -49,7 +52,7 @@ export default function WorldMapInner({ countries }: Props) {
       fillColor: hasPlayers ? getColor(stats.playerCount) : 'transparent',
       weight: hasPlayers ? 2 : 0.5,
       opacity: 1,
-      color: hasPlayers ? '#ea580c' : '#3f3f46',
+      color: hasPlayers ? '#ea580c' : (isDark ? '#3f3f46' : '#d4d4d8'),
       fillOpacity: hasPlayers ? 0.7 : 0,
     };
   };
@@ -70,6 +73,10 @@ export default function WorldMapInner({ countries }: Props) {
     }
   };
 
+  const tileUrl = isDark
+    ? 'https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png'
+    : 'https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png';
+
   return (
     <MapContainer
       center={[20, 0]}
@@ -80,9 +87,7 @@ export default function WorldMapInner({ countries }: Props) {
       attributionControl={false}
       scrollWheelZoom={false}
     >
-      <TileLayer
-        url="https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png"
-      />
+      <TileLayer url={tileUrl} />
       <GeoJSON data={geoData} style={style} onEachFeature={onEachFeature} />
     </MapContainer>
   );

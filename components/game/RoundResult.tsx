@@ -31,13 +31,13 @@ export function RoundResult() {
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         exit={{ opacity: 0 }}
-        className="fixed inset-0 bg-black/70 backdrop-blur-sm flex items-center justify-center z-50 p-4"
+        className="fixed inset-0 bg-surface-overlay backdrop-blur-sm flex items-center justify-center z-50 p-4"
       >
         <motion.div
           initial={{ scale: 0.8, opacity: 0 }}
           animate={{ scale: 1, opacity: 1 }}
           transition={{ type: 'spring', damping: 20, stiffness: 300 }}
-          className="bg-zinc-900 rounded-2xl border border-zinc-800 p-6 max-w-sm w-full"
+          className="bg-surface-card rounded-2xl border border-border p-5 sm:p-6 max-w-sm w-full mx-4 sm:mx-auto"
         >
           {/* Feedback Emoji & Label */}
           <div className="text-center mb-6">
@@ -48,20 +48,20 @@ export function RoundResult() {
           {/* Price Comparison */}
           <div className={`${fb.bg} rounded-xl p-4 mb-4 space-y-3`}>
             <div className="flex justify-between items-center">
-              <span className="text-zinc-400 text-sm">Your guess</span>
-              <span className="text-white font-semibold text-lg">
+              <span className="text-text-secondary text-sm">Your guess</span>
+              <span className="text-text-primary font-semibold text-lg">
                 {formatINR(lastRoundResult.guessedPrice)}
               </span>
             </div>
             <div className="flex justify-between items-center">
-              <span className="text-zinc-400 text-sm">Actual price</span>
-              <span className="text-orange-400 font-bold text-lg">
+              <span className="text-text-secondary text-sm">Actual price</span>
+              <span className="text-accent font-bold text-lg">
                 {formatINR(lastRoundResult.actualPrice)}
               </span>
             </div>
-            <div className="border-t border-zinc-700/50 pt-2 flex justify-between items-center">
-              <span className="text-zinc-400 text-sm">Off by</span>
-              <span className="text-zinc-300 font-medium">{lastRoundResult.percentError}%</span>
+            <div className="border-t border-border-input/50 pt-2 flex justify-between items-center">
+              <span className="text-text-secondary text-sm">Off by</span>
+              <span className="text-text-primary font-medium">{lastRoundResult.percentError}%</span>
             </div>
           </div>
 
@@ -71,10 +71,10 @@ export function RoundResult() {
               initial={{ scale: 0 }}
               animate={{ scale: 1 }}
               transition={{ delay: 0.3, type: 'spring', damping: 15 }}
-              className="inline-flex items-center gap-2 bg-zinc-800 rounded-xl px-6 py-3"
+              className="inline-flex items-center gap-2 bg-surface-input rounded-xl px-6 py-3"
             >
-              <span className="text-zinc-400 text-sm">Points</span>
-              <span className="text-orange-400 font-bold text-2xl">
+              <span className="text-text-secondary text-sm">Points</span>
+              <span className="text-accent font-bold text-2xl">
                 +{lastRoundResult.roundScore}
               </span>
             </motion.div>

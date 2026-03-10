@@ -8,8 +8,8 @@ import dynamic from 'next/dynamic';
 const MapInner = dynamic(() => import('./WorldMapInner'), {
   ssr: false,
   loading: () => (
-    <div className="aspect-[4/3] bg-zinc-800 rounded-xl flex items-center justify-center animate-pulse">
-      <p className="text-zinc-600 text-sm">Loading map...</p>
+    <div className="aspect-[4/3] bg-surface-input rounded-xl flex items-center justify-center animate-pulse">
+      <p className="text-text-tertiary text-sm">Loading map...</p>
     </div>
   ),
 });

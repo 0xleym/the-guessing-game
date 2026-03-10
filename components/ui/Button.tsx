@@ -8,15 +8,15 @@ interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
 }
 
 const variants = {
-  primary: 'bg-orange-500 hover:bg-orange-600 text-white shadow-lg shadow-orange-500/25',
-  secondary: 'bg-zinc-800 hover:bg-zinc-700 text-white border border-zinc-700',
-  ghost: 'bg-transparent hover:bg-zinc-800 text-zinc-300',
+  primary: 'bg-accent hover:bg-accent-hover text-white shadow-lg shadow-accent/25',
+  secondary: 'bg-surface-input hover:bg-border-input text-text-primary border border-border-input',
+  ghost: 'bg-transparent hover:bg-surface-input text-text-secondary',
 };
 
 const sizes = {
-  sm: 'px-3 py-1.5 text-sm',
-  md: 'px-5 py-2.5 text-base',
-  lg: 'px-8 py-3.5 text-lg',
+  sm: 'px-3 py-1.5 text-sm min-h-[36px]',
+  md: 'px-5 py-2.5 text-base min-h-[40px]',
+  lg: 'px-8 py-3.5 text-lg min-h-[44px]',
 };
 
 export const Button = forwardRef<HTMLButtonElement, ButtonProps>(

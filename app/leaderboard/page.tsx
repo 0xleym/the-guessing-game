@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { motion } from 'framer-motion';
 import { Button } from '@/components/ui/Button';
+import { ThemeToggle } from '@/components/ThemeToggle';
 import { LeaderboardEntry, GameMode } from '@/types';
 import * as api from '@/lib/api';
 
@@ -35,16 +36,21 @@ export default function LeaderboardPage() {
   };
 
   return (
-    <div className="min-h-screen bg-zinc-950 px-4 py-12">
+    <div className="min-h-[100dvh] bg-surface px-4 py-8 sm:py-12">
       <div className="max-w-4xl mx-auto">
+        {/* Top bar with theme toggle */}
+        <div className="flex justify-end mb-4">
+          <ThemeToggle />
+        </div>
+
         {/* Header */}
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           className="text-center mb-8"
         >
-          <h1 className="text-3xl font-bold text-white mb-2">Leaderboard</h1>
-          <p className="text-zinc-500">Top price guessers from India</p>
+          <h1 className="text-3xl font-bold text-text-primary mb-2">Leaderboard</h1>
+          <p className="text-text-tertiary">Top price guessers</p>
         </motion.div>
 
         {/* Mode Filter */}
@@ -53,11 +59,11 @@ export default function LeaderboardPage() {
             <button
               key={String(m)}
               onClick={() => setMode(m as GameMode | undefined)}
-              className={`px-4 py-2 rounded-lg text-sm font-medium transition-all cursor-pointer
+              className={`px-4 py-2 rounded-lg text-sm font-medium transition-all cursor-pointer min-h-[40px]
                 ${
                   mode === m
-                    ? 'bg-orange-500/20 text-orange-400 border border-orange-500/30'
-                    : 'bg-zinc-800/50 text-zinc-400 border border-zinc-700/50 hover:border-zinc-600'
+                    ? 'bg-accent/20 text-accent border border-accent/30'
+                    : 'bg-surface-input/50 text-text-secondary border border-border-input/50 hover:border-border-input'
                 }`}
             >
               {m === undefined ? 'All' : `${m} Rounds`}
@@ -67,13 +73,13 @@ export default function LeaderboardPage() {
 
         <div className="max-w-2xl mx-auto">
           {/* Leaderboard Table */}
-          <div className="bg-zinc-900 border border-zinc-800 rounded-2xl overflow-hidden">
+          <div className="bg-surface-card border border-border rounded-2xl overflow-hidden">
             {loading ? (
-              <div className="p-12 text-center text-zinc-500">Loading...</div>
+              <div className="p-12 text-center text-text-tertiary">Loading...</div>
             ) : entries.length === 0 ? (
               <div className="p-12 text-center">
                 <div className="text-4xl mb-3">🏆</div>
-                <p className="text-zinc-400">No scores yet. Be the first!</p>
+                <p className="text-text-secondary">No scores yet. Be the first!</p>
                 <Button onClick={() => router.push('/')} className="mt-4" size="sm">
                   Play Now
                 </Button>
@@ -81,30 +87,30 @@ export default function LeaderboardPage() {
             ) : (
               <table className="w-full">
                 <thead>
-                  <tr className="border-b border-zinc-800 text-zinc-500 text-xs uppercase tracking-wider">
+                  <tr className="border-b border-border text-text-tertiary text-xs uppercase tracking-wider">
                     <th className="text-left px-4 py-3">Rank</th>
                     <th className="text-left px-4 py-3">Player</th>
                     <th className="text-right px-4 py-3">Score</th>
                     <th className="text-right px-4 py-3 hidden sm:table-cell">Mode</th>
                   </tr>
                 </thead>
-                <tbody className="divide-y divide-zinc-800/50">
+                <tbody className="divide-y divide-border/50">
                   {entries.map((entry) => (
-                    <tr key={entry.id} className="hover:bg-zinc-800/30 transition-colors">
+                    <tr key={entry.id} className="hover:bg-surface-input/30 transition-colors">
                       <td className="px-4 py-3 text-sm">
                         {entry.rank <= 3 ? (
                           <span className="text-lg">{rankEmoji(entry.rank)}</span>
                         ) : (
-                          <span className="text-zinc-500">#{entry.rank}</span>
+                          <span className="text-text-tertiary">#{entry.rank}</span>
                         )}
                       </td>
-                      <td className="px-4 py-3 text-white font-medium text-sm">
+                      <td className="px-4 py-3 text-text-primary font-medium text-sm">
                         {entry.playerName}
                       </td>
-                      <td className="px-4 py-3 text-right text-orange-400 font-bold tabular-nums text-sm">
+                      <td className="px-4 py-3 text-right text-accent font-bold tabular-nums text-sm">
                         {entry.score.toLocaleString()}
                       </td>
-                      <td className="px-4 py-3 text-right text-zinc-500 text-sm hidden sm:table-cell">
+                      <td className="px-4 py-3 text-right text-text-tertiary text-sm hidden sm:table-cell">
                         {entry.gameMode}R
                       </td>
                     </tr>

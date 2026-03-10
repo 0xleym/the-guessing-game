@@ -40,9 +40,9 @@ export default function GameOverPage() {
   // If no rounds data, redirect home
   if (rounds.length === 0) {
     return (
-      <div className="min-h-screen bg-zinc-950 flex items-center justify-center">
+      <div className="min-h-[100dvh] bg-surface flex items-center justify-center">
         <div className="text-center">
-          <p className="text-zinc-400 mb-4">No game data found.</p>
+          <p className="text-text-secondary mb-4">No game data found.</p>
           <Button onClick={() => router.push('/')}>Go Home</Button>
         </div>
       </div>
@@ -53,7 +53,7 @@ export default function GameOverPage() {
   const avgError = rounds.reduce((sum, r) => sum + r.percentError, 0) / rounds.length;
 
   return (
-    <div className="min-h-screen bg-zinc-950 flex flex-col items-center px-4 py-12">
+    <div className="min-h-[100dvh] bg-surface flex flex-col items-center px-4 py-8 sm:py-12">
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
@@ -62,8 +62,8 @@ export default function GameOverPage() {
         {/* Title */}
         <div className="text-center mb-8">
           <div className="text-5xl mb-3">🏁</div>
-          <h1 className="text-3xl font-bold text-white mb-1">Game Over!</h1>
-          <p className="text-zinc-500">{gameMode} rounds completed</p>
+          <h1 className="text-3xl font-bold text-text-primary mb-1">Game Over!</h1>
+          <p className="text-text-tertiary">{gameMode} rounds completed</p>
         </div>
 
         {/* Total Score */}
@@ -71,39 +71,39 @@ export default function GameOverPage() {
           initial={{ scale: 0.8 }}
           animate={{ scale: 1 }}
           transition={{ delay: 0.2, type: 'spring', damping: 15 }}
-          className="bg-zinc-900 border border-zinc-800 rounded-2xl p-6 text-center mb-6"
+          className="bg-surface-card border border-border rounded-2xl p-5 sm:p-6 text-center mb-6"
         >
-          <p className="text-zinc-400 text-sm mb-1">Total Score</p>
-          <p className="text-5xl font-bold text-orange-400 tabular-nums">{totalScore}</p>
+          <p className="text-text-secondary text-sm mb-1">Total Score</p>
+          <p className="text-4xl sm:text-5xl font-bold text-accent tabular-nums">{totalScore}</p>
           <div className="flex justify-center gap-6 mt-4 text-sm">
             <div>
-              <span className="text-zinc-500">Best Round</span>
-              <p className="text-white font-semibold">+{bestRound.roundScore}</p>
+              <span className="text-text-tertiary">Best Round</span>
+              <p className="text-text-primary font-semibold">+{bestRound.roundScore}</p>
             </div>
             <div>
-              <span className="text-zinc-500">Avg Error</span>
-              <p className="text-white font-semibold">{avgError.toFixed(1)}%</p>
+              <span className="text-text-tertiary">Avg Error</span>
+              <p className="text-text-primary font-semibold">{avgError.toFixed(1)}%</p>
             </div>
           </div>
         </motion.div>
 
         {/* Round Breakdown */}
-        <div className="bg-zinc-900 border border-zinc-800 rounded-2xl overflow-hidden mb-6">
-          <div className="px-4 py-3 border-b border-zinc-800">
-            <h3 className="text-white font-semibold text-sm">Round Breakdown</h3>
+        <div className="bg-surface-card border border-border rounded-2xl overflow-hidden mb-6">
+          <div className="px-4 py-3 border-b border-border">
+            <h3 className="text-text-primary font-semibold text-sm">Round Breakdown</h3>
           </div>
-          <div className="divide-y divide-zinc-800/50">
+          <div className="divide-y divide-border/50">
             {rounds.map((round, i) => (
               <div key={i} className="flex items-center justify-between px-4 py-3">
                 <div className="flex-1 min-w-0">
-                  <p className="text-white text-sm truncate">{round.productName}</p>
-                  <p className="text-zinc-500 text-xs">
+                  <p className="text-text-primary text-sm truncate">{round.productName}</p>
+                  <p className="text-text-tertiary text-xs">
                     {formatINR(round.guessedPrice)} → {formatINR(round.actualPrice)}
                   </p>
                 </div>
                 <div className="text-right ml-3">
-                  <p className="text-orange-400 font-semibold text-sm">+{round.roundScore}</p>
-                  <p className="text-zinc-500 text-xs">{round.percentError}% off</p>
+                  <p className="text-accent font-semibold text-sm">+{round.roundScore}</p>
+                  <p className="text-text-tertiary text-xs">{round.percentError}% off</p>
                 </div>
               </div>
             ))}
@@ -112,8 +112,8 @@ export default function GameOverPage() {
 
         {/* Submit Score */}
         {!submitted ? (
-          <div className="bg-zinc-900 border border-zinc-800 rounded-2xl p-5 mb-6">
-            <h3 className="text-white font-semibold mb-3">Submit to Leaderboard</h3>
+          <div className="bg-surface-card border border-border rounded-2xl p-5 mb-6">
+            <h3 className="text-text-primary font-semibold mb-3">Submit to Leaderboard</h3>
             <div className="flex gap-3">
               <input
                 type="text"
@@ -121,8 +121,8 @@ export default function GameOverPage() {
                 onChange={(e) => setPlayerName(e.target.value)}
                 placeholder="Your name"
                 maxLength={30}
-                className="flex-1 bg-zinc-800 border border-zinc-700 rounded-xl px-4 py-2.5 text-white
-                           placeholder:text-zinc-500 focus:outline-none focus:border-orange-500 transition-colors"
+                className="flex-1 bg-surface-input border border-border-input rounded-xl px-4 py-2.5 text-text-primary text-[16px]
+                           placeholder:text-text-tertiary focus:outline-none focus:border-accent transition-colors"
               />
               <Button
                 onClick={handleSubmit}
@@ -140,7 +140,7 @@ export default function GameOverPage() {
             className="bg-green-500/10 border border-green-500/30 rounded-2xl p-5 text-center mb-6"
           >
             <p className="text-green-400 font-semibold">Score submitted!</p>
-            {rank && <p className="text-zinc-400 text-sm mt-1">You ranked #{rank}</p>}
+            {rank && <p className="text-text-secondary text-sm mt-1">You ranked #{rank}</p>}
           </motion.div>
         )}
 

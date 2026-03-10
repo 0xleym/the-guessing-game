@@ -14,10 +14,10 @@ export function LifelineBar() {
         <button
           onClick={() => useLifeline('category')}
           disabled={lifelines.category || !isGuessing}
-          className={`flex-1 px-4 py-3 rounded-xl text-sm font-medium transition-all border
+          className={`flex-1 px-3 sm:px-4 py-3 rounded-xl text-sm font-medium transition-all border min-h-[44px]
             ${
               lifelines.category
-                ? 'bg-zinc-800/50 border-zinc-700/50 text-zinc-500 cursor-not-allowed'
+                ? 'bg-surface-input/50 border-border-input/50 text-text-tertiary cursor-not-allowed'
                 : 'bg-purple-500/10 border-purple-500/30 text-purple-400 hover:bg-purple-500/20 cursor-pointer'
             }`}
         >
@@ -28,10 +28,10 @@ export function LifelineBar() {
         <button
           onClick={() => useLifeline('range')}
           disabled={lifelines.range || !isGuessing}
-          className={`flex-1 px-4 py-3 rounded-xl text-sm font-medium transition-all border
+          className={`flex-1 px-3 sm:px-4 py-3 rounded-xl text-sm font-medium transition-all border min-h-[44px]
             ${
               lifelines.range
-                ? 'bg-zinc-800/50 border-zinc-700/50 text-zinc-500 cursor-not-allowed'
+                ? 'bg-surface-input/50 border-border-input/50 text-text-tertiary cursor-not-allowed'
                 : 'bg-blue-500/10 border-blue-500/30 text-blue-400 hover:bg-blue-500/20 cursor-pointer'
             }`}
         >
