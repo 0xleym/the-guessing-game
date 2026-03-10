@@ -2,11 +2,18 @@ import { NextRequest, NextResponse } from 'next/server';
 import { getSession, updateSession } from '@/lib/sessions';
 import { calculateScore } from '@/lib/scoring';
 import { RoundResult } from '@/types';
+import { checkRateLimit, rateLimitResponse, maybeCleanupRateLimitMap } from '@/lib/rateLimit';
+
+const RATE_LIMIT = { windowMs: 60_000, maxRequests: 20 };
 
 export async function POST(
   req: NextRequest,
   { params }: { params: Promise<{ sessionId: string }> }
 ) {
+  maybeCleanupRateLimitMap(RATE_LIMIT.windowMs);
+  const rl = checkRateLimit(req, RATE_LIMIT);
+  if (!rl.allowed) return rateLimitResponse(rl.retryAfterMs);
+
   try {
     const { sessionId } = await params;
     const session = await getSession(sessionId);
@@ -20,10 +27,19 @@ export async function POST(
     }
 
     const body = await req.json();
-    const guessedPrice = Number(body.guessedPrice);
 
-    if (isNaN(guessedPrice) || guessedPrice < 0) {
-      return NextResponse.json({ error: 'Invalid price' }, { status: 400 });
+    if (typeof body.guessedPrice !== 'number' || !Number.isFinite(body.guessedPrice)) {
+      return NextResponse.json({ error: 'guessedPrice must be a finite number' }, { status: 400 });
+    }
+
+    const guessedPrice = body.guessedPrice;
+
+    if (guessedPrice <= 0) {
+      return NextResponse.json({ error: 'Price must be greater than zero' }, { status: 400 });
+    }
+
+    if (guessedPrice > 10_000_000) {
+      return NextResponse.json({ error: 'Price exceeds maximum allowed value' }, { status: 400 });
     }
 
     const currentProduct = session.products[session.currentRound];

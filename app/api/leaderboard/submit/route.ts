@@ -3,8 +3,15 @@ import { getSession, updateSession } from '@/lib/sessions';
 import { addEntry } from '@/lib/leaderboard';
 import { getCountryFromIP } from '@/lib/geolocation';
 import { GameMode } from '@/types';
+import { checkRateLimit, rateLimitResponse, maybeCleanupRateLimitMap } from '@/lib/rateLimit';
+
+const RATE_LIMIT = { windowMs: 60_000, maxRequests: 5 };
 
 export async function POST(req: NextRequest) {
+  maybeCleanupRateLimitMap(RATE_LIMIT.windowMs);
+  const rl = checkRateLimit(req, RATE_LIMIT);
+  if (!rl.allowed) return rateLimitResponse(rl.retryAfterMs);
+
   try {
     const body = await req.json();
     const { sessionId, playerName } = body;

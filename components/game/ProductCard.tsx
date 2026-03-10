@@ -26,8 +26,8 @@ export function ProductCard({ product }: ProductCardProps) {
       transition={{ duration: 0.4 }}
       className="bg-surface-card rounded-2xl border border-border overflow-hidden max-w-md mx-auto w-full"
     >
-      {/* Product Image — always white bg for product visibility */}
-      <div className="relative aspect-square bg-white flex items-center justify-center">
+      {/* Product Image */}
+      <div className="relative aspect-square bg-surface-card flex items-center justify-center">
         {imgError ? (
           <div className="w-full h-full flex items-center justify-center text-text-secondary">
             <div className="text-center">
@@ -38,7 +38,7 @@ export function ProductCard({ product }: ProductCardProps) {
         ) : (
           <>
             {imgLoading && (
-              <div className="absolute inset-0 flex items-center justify-center bg-white z-10">
+              <div className="absolute inset-0 flex items-center justify-center bg-surface-card z-10">
                 <div className="w-8 h-8 border-2 border-zinc-300 border-t-orange-500 rounded-full animate-spin" />
               </div>
             )}

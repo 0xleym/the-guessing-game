@@ -85,9 +85,11 @@ export async function getTopEntries(
 export async function getCountryStats(): Promise<
   { countryCode: string; countryName: string; playerCount: number; topScore: number }[]
 > {
+  // TODO: Replace JS aggregation with a Supabase RPC using SQL GROUP BY at scale
   const { data, error } = await getSupabase()
     .from('leaderboard')
-    .select('country_code, country_name, score');
+    .select('country_code, country_name, score')
+    .limit(10000);
 
   if (error || !data) {
     throw new Error(`Failed to fetch country stats: ${error?.message}`);

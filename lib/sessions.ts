@@ -41,6 +41,8 @@ export async function createSession(
   products: ProductFull[],
   totalRounds: GameMode
 ): Promise<ServerSession> {
+  maybeTriggerCleanup();
+
   const id = uuidv4();
   const now = new Date();
   const expiresAt = new Date(now.getTime() + SESSION_TTL);
@@ -104,4 +106,17 @@ export async function updateSession(session: ServerSession): Promise<void> {
 
 export async function deleteSession(id: string): Promise<void> {
   await getSupabase().from('game_sessions').delete().eq('id', id);
+}
+
+async function cleanupExpiredSessions(): Promise<void> {
+  await getSupabase()
+    .from('game_sessions')
+    .delete()
+    .lt('expires_at', new Date().toISOString());
+}
+
+function maybeTriggerCleanup(): void {
+  if (Math.random() < 0.1) {
+    cleanupExpiredSessions().catch(() => {});
+  }
 }
