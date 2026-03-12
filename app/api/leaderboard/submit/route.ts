@@ -20,8 +20,13 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: 'Missing sessionId or playerName' }, { status: 400 });
     }
 
-    const trimmedName = playerName.trim().slice(0, 30);
-    if (trimmedName.length === 0) {
+    // Strip control chars, zero-width chars, RTL/LTR overrides
+    const sanitizedName = playerName
+      .trim()
+      .slice(0, 30)
+      .replace(/[\u0000-\u001F\u007F-\u009F\u200B-\u200F\u2028-\u202F\uFEFF]/g, '')
+      .trim();
+    if (sanitizedName.length === 0) {
       return NextResponse.json({ error: 'Player name is required' }, { status: 400 });
     }
 
@@ -38,6 +43,10 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: 'Score already submitted' }, { status: 400 });
     }
 
+    if (!Number.isFinite(session.totalScore) || session.totalScore < 0) {
+      return NextResponse.json({ error: 'Invalid score' }, { status: 400 });
+    }
+
     // Get country from IP
     const ip = req.headers.get('x-forwarded-for')?.split(',')[0]?.trim()
       || req.headers.get('x-real-ip')
@@ -45,7 +54,7 @@ export async function POST(req: NextRequest) {
     const { countryCode, countryName } = await getCountryFromIP(ip);
 
     const entry = await addEntry(
-      trimmedName,
+      sanitizedName,
       session.totalScore,
       session.totalRounds,
       session.totalRounds as GameMode,

@@ -23,6 +23,7 @@ interface GameState {
   lifelines: { category: boolean; range: boolean };
   categoryHint: LifelineCategoryResponse | null;
   rangeHint: LifelineRangeResponse | null;
+  lifelinesUsedThisRound: string[];
   rounds: RoundResult[];
   lastRoundResult: RoundResult | null;
   error: string | null;
@@ -46,6 +47,7 @@ const initialState = {
   lifelines: { category: false, range: false },
   categoryHint: null as LifelineCategoryResponse | null,
   rangeHint: null as LifelineRangeResponse | null,
+  lifelinesUsedThisRound: [] as string[],
   rounds: [] as RoundResult[],
   lastRoundResult: null as RoundResult | null,
   error: null as string | null,
@@ -91,7 +93,7 @@ export const useGameStore = create<GameState>((set, get) => ({
         roundScore: data.roundScore,
         percentError: data.percentError,
         feedback: data.feedback,
-        lifelinesUsed: [],
+        lifelinesUsed: get().lifelinesUsedThisRound,
       };
 
       set((state) => ({
@@ -120,11 +122,13 @@ export const useGameStore = create<GameState>((set, get) => ({
         set((state) => ({
           lifelines: { ...state.lifelines, category: true },
           categoryHint: data as LifelineCategoryResponse,
+          lifelinesUsedThisRound: [...state.lifelinesUsedThisRound, type],
         }));
       } else {
         set((state) => ({
           lifelines: { ...state.lifelines, range: true },
           rangeHint: data as LifelineRangeResponse,
+          lifelinesUsedThisRound: [...state.lifelinesUsedThisRound, type],
         }));
       }
     } catch (e) {
@@ -143,6 +147,7 @@ export const useGameStore = create<GameState>((set, get) => ({
         lastRoundResult: null,
         categoryHint: null,
         rangeHint: null,
+        lifelinesUsedThisRound: [],
       });
     }
   },

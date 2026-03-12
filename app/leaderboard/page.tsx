@@ -5,12 +5,14 @@ import { useRouter } from 'next/navigation';
 import { motion } from 'framer-motion';
 import { Button } from '@/components/ui/Button';
 import { ThemeToggle } from '@/components/ThemeToggle';
-import { LeaderboardEntry, GameMode } from '@/types';
+import { LeaderboardEntry, GameMode, CountryStats } from '@/types';
+import { WorldMap } from '@/components/leaderboard/WorldMap';
 import * as api from '@/lib/api';
 
 export default function LeaderboardPage() {
   const router = useRouter();
   const [entries, setEntries] = useState<LeaderboardEntry[]>([]);
+  const [countries, setCountries] = useState<CountryStats[]>([]);
   const [mode, setMode] = useState<GameMode | undefined>(undefined);
   const [loading, setLoading] = useState(true);
 
@@ -18,8 +20,12 @@ export default function LeaderboardPage() {
     async function load() {
       setLoading(true);
       try {
-        const lb = await api.getLeaderboard(mode);
+        const [lb, cs] = await Promise.all([
+          api.getLeaderboard(mode),
+          api.getCountryStats(),
+        ]);
         setEntries(lb.entries);
+        setCountries(cs.countries);
       } catch {
         // silent
       }
@@ -70,6 +76,16 @@ export default function LeaderboardPage() {
             </button>
           ))}
         </div>
+
+        {/* World Map */}
+        {countries.length > 0 && (
+          <div className="max-w-2xl mx-auto mb-6">
+            <div className="bg-surface-card border border-border rounded-2xl overflow-hidden p-4">
+              <h2 className="text-text-primary font-semibold text-sm mb-3">Players Around the World</h2>
+              <WorldMap countries={countries} />
+            </div>
+          </div>
+        )}
 
         <div className="max-w-2xl mx-auto">
           {/* Leaderboard Table */}
